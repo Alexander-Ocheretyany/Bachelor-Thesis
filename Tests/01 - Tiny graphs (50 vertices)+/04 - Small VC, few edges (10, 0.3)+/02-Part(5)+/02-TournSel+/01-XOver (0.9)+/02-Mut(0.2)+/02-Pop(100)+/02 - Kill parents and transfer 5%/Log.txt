@@ -1,0 +1,7022 @@
+Type of selection (r - Roulette Wheel, t - Tournament): t
+	Probability of the best individual to be selected (0.0 - 1.0): 0.9
+Probability of XOver (0.0 - 1.0): 0.9
+Probability of mutation (0.0 - 1.0): 0.2
+Type of mutation (r - random, u - uniform, s - shift, b - big bang): r
+Size of a population: 100
+Run until optimum [y\n]?: n
+Number of generations (-1 for infinity): 1000
+Strategy (k - kill parents, b - only best)?: k
+Transfer the best individuals to the next generation [y\n]?: y
+	-> Percentage of the best transfered individuals (0 - 100): 5
+------------------------------
+Generation 0:
+-> Best fitness: 33
+-> The average fitness: 23.34
+-> Cost of best solution: 96
+Time: 0.404 s
+------------------------------
+------------------------------
+Generation 1:
+-> Best fitness: 33
+-> The average fitness: 24.16
+-> Cost of best solution: 96
+Time: 1.004 s
+------------------------------
+------------------------------
+Generation 2:
+-> Best fitness: 33
+-> The average fitness: 25.52
+-> Cost of best solution: 96
+Time: 1.658 s
+------------------------------
+------------------------------
+Generation 3:
+-> Best fitness: 34
+-> The average fitness: 26.51
+-> Cost of best solution: 95
+Time: 2.284 s
+------------------------------
+------------------------------
+Generation 4:
+-> Best fitness: 34
+-> The average fitness: 26.32
+-> Cost of best solution: 95
+Time: 2.93 s
+------------------------------
+------------------------------
+Generation 5:
+-> Best fitness: 34
+-> The average fitness: 26.94
+-> Cost of best solution: 95
+Time: 3.626 s
+------------------------------
+------------------------------
+Generation 6:
+-> Best fitness: 34
+-> The average fitness: 27.7
+-> Cost of best solution: 95
+Time: 4.278 s
+------------------------------
+------------------------------
+Generation 7:
+-> Best fitness: 39
+-> The average fitness: 27.87
+-> Cost of best solution: 90
+Time: 4.92 s
+------------------------------
+------------------------------
+Generation 8:
+-> Best fitness: 39
+-> The average fitness: 28.02
+-> Cost of best solution: 90
+Time: 5.57 s
+------------------------------
+------------------------------
+Generation 9:
+-> Best fitness: 39
+-> The average fitness: 28.38
+-> Cost of best solution: 90
+Time: 6.268 s
+------------------------------
+------------------------------
+Generation 10:
+-> Best fitness: 39
+-> The average fitness: 29.16
+-> Cost of best solution: 90
+Time: 7.004 s
+------------------------------
+------------------------------
+Generation 11:
+-> Best fitness: 39
+-> The average fitness: 30.07
+-> Cost of best solution: 90
+Time: 7.775 s
+------------------------------
+------------------------------
+Generation 12:
+-> Best fitness: 39
+-> The average fitness: 30.55
+-> Cost of best solution: 90
+Time: 8.417 s
+------------------------------
+------------------------------
+Generation 13:
+-> Best fitness: 39
+-> The average fitness: 31.28
+-> Cost of best solution: 90
+Time: 9.194 s
+------------------------------
+------------------------------
+Generation 14:
+-> Best fitness: 41
+-> The average fitness: 32.13
+-> Cost of best solution: 88
+Time: 10.096 s
+------------------------------
+------------------------------
+Generation 15:
+-> Best fitness: 41
+-> The average fitness: 33.94
+-> Cost of best solution: 88
+Time: 10.921 s
+------------------------------
+------------------------------
+Generation 16:
+-> Best fitness: 41
+-> The average fitness: 35.53
+-> Cost of best solution: 88
+Time: 11.864 s
+------------------------------
+------------------------------
+Generation 17:
+-> Best fitness: 41
+-> The average fitness: 37
+-> Cost of best solution: 88
+Time: 12.852 s
+------------------------------
+------------------------------
+Generation 18:
+-> Best fitness: 43
+-> The average fitness: 37.15
+-> Cost of best solution: 86
+Time: 13.675 s
+------------------------------
+------------------------------
+Generation 19:
+-> Best fitness: 43
+-> The average fitness: 37.97
+-> Cost of best solution: 86
+Time: 14.631 s
+------------------------------
+------------------------------
+Generation 20:
+-> Best fitness: 43
+-> The average fitness: 38.49
+-> Cost of best solution: 86
+Time: 15.474 s
+------------------------------
+------------------------------
+Generation 21:
+-> Best fitness: 43
+-> The average fitness: 38.79
+-> Cost of best solution: 86
+Time: 16.419 s
+------------------------------
+------------------------------
+Generation 22:
+-> Best fitness: 43
+-> The average fitness: 39.26
+-> Cost of best solution: 86
+Time: 17.394 s
+------------------------------
+------------------------------
+Generation 23:
+-> Best fitness: 43
+-> The average fitness: 39.39
+-> Cost of best solution: 86
+Time: 18.377 s
+------------------------------
+------------------------------
+Generation 24:
+-> Best fitness: 43
+-> The average fitness: 39.66
+-> Cost of best solution: 86
+Time: 19.219 s
+------------------------------
+------------------------------
+Generation 25:
+-> Best fitness: 43
+-> The average fitness: 39.89
+-> Cost of best solution: 86
+Time: 20.042 s
+------------------------------
+------------------------------
+Generation 26:
+-> Best fitness: 44
+-> The average fitness: 40.14
+-> Cost of best solution: 85
+Time: 20.926 s
+------------------------------
+------------------------------
+Generation 27:
+-> Best fitness: 44
+-> The average fitness: 40.01
+-> Cost of best solution: 85
+Time: 21.787 s
+------------------------------
+------------------------------
+Generation 28:
+-> Best fitness: 45
+-> The average fitness: 39.38
+-> Cost of best solution: 84
+Time: 22.492 s
+------------------------------
+------------------------------
+Generation 29:
+-> Best fitness: 45
+-> The average fitness: 39.8
+-> Cost of best solution: 84
+Time: 23.313 s
+------------------------------
+------------------------------
+Generation 30:
+-> Best fitness: 45
+-> The average fitness: 39.59
+-> Cost of best solution: 84
+Time: 24.131 s
+------------------------------
+------------------------------
+Generation 31:
+-> Best fitness: 45
+-> The average fitness: 39.82
+-> Cost of best solution: 84
+Time: 24.966 s
+------------------------------
+------------------------------
+Generation 32:
+-> Best fitness: 45
+-> The average fitness: 40.45
+-> Cost of best solution: 84
+Time: 25.806 s
+------------------------------
+------------------------------
+Generation 33:
+-> Best fitness: 46
+-> The average fitness: 40.32
+-> Cost of best solution: 83
+Time: 26.62 s
+------------------------------
+------------------------------
+Generation 34:
+-> Best fitness: 46
+-> The average fitness: 40.34
+-> Cost of best solution: 83
+Time: 27.417 s
+------------------------------
+------------------------------
+Generation 35:
+-> Best fitness: 46
+-> The average fitness: 40.26
+-> Cost of best solution: 83
+Time: 28.165 s
+------------------------------
+------------------------------
+Generation 36:
+-> Best fitness: 46
+-> The average fitness: 41.18
+-> Cost of best solution: 83
+Time: 28.884 s
+------------------------------
+------------------------------
+Generation 37:
+-> Best fitness: 46
+-> The average fitness: 41.64
+-> Cost of best solution: 83
+Time: 29.658 s
+------------------------------
+------------------------------
+Generation 38:
+-> Best fitness: 46
+-> The average fitness: 42.04
+-> Cost of best solution: 83
+Time: 30.473 s
+------------------------------
+------------------------------
+Generation 39:
+-> Best fitness: 47
+-> The average fitness: 42.14
+-> Cost of best solution: 82
+Time: 31.311 s
+------------------------------
+------------------------------
+Generation 40:
+-> Best fitness: 47
+-> The average fitness: 43.07
+-> Cost of best solution: 82
+Time: 32.06 s
+------------------------------
+------------------------------
+Generation 41:
+-> Best fitness: 47
+-> The average fitness: 43.36
+-> Cost of best solution: 82
+Time: 32.899 s
+------------------------------
+------------------------------
+Generation 42:
+-> Best fitness: 47
+-> The average fitness: 43.55
+-> Cost of best solution: 82
+Time: 33.677 s
+------------------------------
+------------------------------
+Generation 43:
+-> Best fitness: 48
+-> The average fitness: 43.37
+-> Cost of best solution: 81
+Time: 34.454 s
+------------------------------
+------------------------------
+Generation 44:
+-> Best fitness: 48
+-> The average fitness: 43.59
+-> Cost of best solution: 81
+Time: 35.231 s
+------------------------------
+------------------------------
+Generation 45:
+-> Best fitness: 48
+-> The average fitness: 44.05
+-> Cost of best solution: 81
+Time: 36.222 s
+------------------------------
+------------------------------
+Generation 46:
+-> Best fitness: 48
+-> The average fitness: 43.96
+-> Cost of best solution: 81
+Time: 37.114 s
+------------------------------
+------------------------------
+Generation 47:
+-> Best fitness: 50
+-> The average fitness: 44.8
+-> Cost of best solution: 79
+Time: 37.825 s
+------------------------------
+------------------------------
+Generation 48:
+-> Best fitness: 50
+-> The average fitness: 45.48
+-> Cost of best solution: 79
+Time: 38.561 s
+------------------------------
+------------------------------
+Generation 49:
+-> Best fitness: 50
+-> The average fitness: 45.49
+-> Cost of best solution: 79
+Time: 39.433 s
+------------------------------
+------------------------------
+Generation 50:
+-> Best fitness: 50
+-> The average fitness: 45.33
+-> Cost of best solution: 79
+Time: 40.194 s
+------------------------------
+------------------------------
+Generation 51:
+-> Best fitness: 51
+-> The average fitness: 45.49
+-> Cost of best solution: 78
+Time: 40.944 s
+------------------------------
+------------------------------
+Generation 52:
+-> Best fitness: 51
+-> The average fitness: 45.94
+-> Cost of best solution: 78
+Time: 41.743 s
+------------------------------
+------------------------------
+Generation 53:
+-> Best fitness: 51
+-> The average fitness: 46.12
+-> Cost of best solution: 78
+Time: 42.489 s
+------------------------------
+------------------------------
+Generation 54:
+-> Best fitness: 51
+-> The average fitness: 45.96
+-> Cost of best solution: 78
+Time: 43.237 s
+------------------------------
+------------------------------
+Generation 55:
+-> Best fitness: 51
+-> The average fitness: 46.45
+-> Cost of best solution: 78
+Time: 44.007 s
+------------------------------
+------------------------------
+Generation 56:
+-> Best fitness: 51
+-> The average fitness: 46.87
+-> Cost of best solution: 78
+Time: 44.721 s
+------------------------------
+------------------------------
+Generation 57:
+-> Best fitness: 51
+-> The average fitness: 47.05
+-> Cost of best solution: 78
+Time: 45.577 s
+------------------------------
+------------------------------
+Generation 58:
+-> Best fitness: 51
+-> The average fitness: 47.75
+-> Cost of best solution: 78
+Time: 46.279 s
+------------------------------
+------------------------------
+Generation 59:
+-> Best fitness: 51
+-> The average fitness: 47.89
+-> Cost of best solution: 78
+Time: 47.132 s
+------------------------------
+------------------------------
+Generation 60:
+-> Best fitness: 51
+-> The average fitness: 48.01
+-> Cost of best solution: 78
+Time: 47.871 s
+------------------------------
+------------------------------
+Generation 61:
+-> Best fitness: 52
+-> The average fitness: 48.21
+-> Cost of best solution: 77
+Time: 48.649 s
+------------------------------
+------------------------------
+Generation 62:
+-> Best fitness: 52
+-> The average fitness: 48.17
+-> Cost of best solution: 77
+Time: 49.397 s
+------------------------------
+------------------------------
+Generation 63:
+-> Best fitness: 52
+-> The average fitness: 48.69
+-> Cost of best solution: 77
+Time: 50.162 s
+------------------------------
+------------------------------
+Generation 64:
+-> Best fitness: 52
+-> The average fitness: 49
+-> Cost of best solution: 77
+Time: 50.879 s
+------------------------------
+------------------------------
+Generation 65:
+-> Best fitness: 53
+-> The average fitness: 48.95
+-> Cost of best solution: 76
+Time: 51.665 s
+------------------------------
+------------------------------
+Generation 66:
+-> Best fitness: 53
+-> The average fitness: 48.62
+-> Cost of best solution: 76
+Time: 52.462 s
+------------------------------
+------------------------------
+Generation 67:
+-> Best fitness: 53
+-> The average fitness: 48.59
+-> Cost of best solution: 76
+Time: 53.269 s
+------------------------------
+------------------------------
+Generation 68:
+-> Best fitness: 53
+-> The average fitness: 48.95
+-> Cost of best solution: 76
+Time: 54.022 s
+------------------------------
+------------------------------
+Generation 69:
+-> Best fitness: 53
+-> The average fitness: 49.24
+-> Cost of best solution: 76
+Time: 54.71 s
+------------------------------
+------------------------------
+Generation 70:
+-> Best fitness: 53
+-> The average fitness: 49.04
+-> Cost of best solution: 76
+Time: 55.395 s
+------------------------------
+------------------------------
+Generation 71:
+-> Best fitness: 53
+-> The average fitness: 49.01
+-> Cost of best solution: 76
+Time: 56.207 s
+------------------------------
+------------------------------
+Generation 72:
+-> Best fitness: 53
+-> The average fitness: 49.63
+-> Cost of best solution: 76
+Time: 56.953 s
+------------------------------
+------------------------------
+Generation 73:
+-> Best fitness: 53
+-> The average fitness: 49.64
+-> Cost of best solution: 76
+Time: 57.699 s
+------------------------------
+------------------------------
+Generation 74:
+-> Best fitness: 53
+-> The average fitness: 49.87
+-> Cost of best solution: 76
+Time: 58.426 s
+------------------------------
+------------------------------
+Generation 75:
+-> Best fitness: 53
+-> The average fitness: 50.17
+-> Cost of best solution: 76
+Time: 59.171 s
+------------------------------
+------------------------------
+Generation 76:
+-> Best fitness: 53
+-> The average fitness: 49.84
+-> Cost of best solution: 76
+Time: 59.919 s
+------------------------------
+------------------------------
+Generation 77:
+-> Best fitness: 53
+-> The average fitness: 49.91
+-> Cost of best solution: 76
+Time: 60.618 s
+------------------------------
+------------------------------
+Generation 78:
+-> Best fitness: 53
+-> The average fitness: 50.86
+-> Cost of best solution: 76
+Time: 61.425 s
+------------------------------
+------------------------------
+Generation 79:
+-> Best fitness: 53
+-> The average fitness: 50.78
+-> Cost of best solution: 76
+Time: 62.164 s
+------------------------------
+------------------------------
+Generation 80:
+-> Best fitness: 53
+-> The average fitness: 51.26
+-> Cost of best solution: 76
+Time: 62.871 s
+------------------------------
+------------------------------
+Generation 81:
+-> Best fitness: 53
+-> The average fitness: 51.01
+-> Cost of best solution: 76
+Time: 63.694 s
+------------------------------
+------------------------------
+Generation 82:
+-> Best fitness: 53
+-> The average fitness: 50.95
+-> Cost of best solution: 76
+Time: 64.511 s
+------------------------------
+------------------------------
+Generation 83:
+-> Best fitness: 53
+-> The average fitness: 51
+-> Cost of best solution: 76
+Time: 65.211 s
+------------------------------
+------------------------------
+Generation 84:
+-> Best fitness: 53
+-> The average fitness: 51.15
+-> Cost of best solution: 76
+Time: 65.974 s
+------------------------------
+------------------------------
+Generation 85:
+-> Best fitness: 53
+-> The average fitness: 51.4
+-> Cost of best solution: 76
+Time: 66.721 s
+------------------------------
+------------------------------
+Generation 86:
+-> Best fitness: 53
+-> The average fitness: 51.5
+-> Cost of best solution: 76
+Time: 67.476 s
+------------------------------
+------------------------------
+Generation 87:
+-> Best fitness: 53
+-> The average fitness: 51.16
+-> Cost of best solution: 76
+Time: 68.181 s
+------------------------------
+------------------------------
+Generation 88:
+-> Best fitness: 53
+-> The average fitness: 51.46
+-> Cost of best solution: 76
+Time: 68.894 s
+------------------------------
+------------------------------
+Generation 89:
+-> Best fitness: 53
+-> The average fitness: 51
+-> Cost of best solution: 76
+Time: 69.749 s
+------------------------------
+------------------------------
+Generation 90:
+-> Best fitness: 54
+-> The average fitness: 51.16
+-> Cost of best solution: 75
+Time: 70.609 s
+------------------------------
+------------------------------
+Generation 91:
+-> Best fitness: 54
+-> The average fitness: 51.54
+-> Cost of best solution: 75
+Time: 71.326 s
+------------------------------
+------------------------------
+Generation 92:
+-> Best fitness: 54
+-> The average fitness: 52.11
+-> Cost of best solution: 75
+Time: 72.034 s
+------------------------------
+------------------------------
+Generation 93:
+-> Best fitness: 54
+-> The average fitness: 52.19
+-> Cost of best solution: 75
+Time: 72.734 s
+------------------------------
+------------------------------
+Generation 94:
+-> Best fitness: 54
+-> The average fitness: 51.65
+-> Cost of best solution: 75
+Time: 73.495 s
+------------------------------
+------------------------------
+Generation 95:
+-> Best fitness: 54
+-> The average fitness: 51.93
+-> Cost of best solution: 75
+Time: 74.216 s
+------------------------------
+------------------------------
+Generation 96:
+-> Best fitness: 54
+-> The average fitness: 52.42
+-> Cost of best solution: 75
+Time: 74.914 s
+------------------------------
+------------------------------
+Generation 97:
+-> Best fitness: 54
+-> The average fitness: 51.86
+-> Cost of best solution: 75
+Time: 75.731 s
+------------------------------
+------------------------------
+Generation 98:
+-> Best fitness: 54
+-> The average fitness: 51.7
+-> Cost of best solution: 75
+Time: 76.422 s
+------------------------------
+------------------------------
+Generation 99:
+-> Best fitness: 54
+-> The average fitness: 51.95
+-> Cost of best solution: 75
+Time: 77.191 s
+------------------------------
+------------------------------
+Generation 100:
+-> Best fitness: 54
+-> The average fitness: 52.48
+-> Cost of best solution: 75
+Time: 77.995 s
+------------------------------
+------------------------------
+Generation 101:
+-> Best fitness: 54
+-> The average fitness: 52.46
+-> Cost of best solution: 75
+Time: 78.781 s
+------------------------------
+------------------------------
+Generation 102:
+-> Best fitness: 54
+-> The average fitness: 52.8
+-> Cost of best solution: 75
+Time: 79.618 s
+------------------------------
+------------------------------
+Generation 103:
+-> Best fitness: 54
+-> The average fitness: 52.55
+-> Cost of best solution: 75
+Time: 80.418 s
+------------------------------
+------------------------------
+Generation 104:
+-> Best fitness: 54
+-> The average fitness: 52.49
+-> Cost of best solution: 75
+Time: 81.197 s
+------------------------------
+------------------------------
+Generation 105:
+-> Best fitness: 54
+-> The average fitness: 52.14
+-> Cost of best solution: 75
+Time: 81.972 s
+------------------------------
+------------------------------
+Generation 106:
+-> Best fitness: 54
+-> The average fitness: 52.07
+-> Cost of best solution: 75
+Time: 82.773 s
+------------------------------
+------------------------------
+Generation 107:
+-> Best fitness: 54
+-> The average fitness: 52.28
+-> Cost of best solution: 75
+Time: 83.681 s
+------------------------------
+------------------------------
+Generation 108:
+-> Best fitness: 54
+-> The average fitness: 52.4
+-> Cost of best solution: 75
+Time: 84.4 s
+------------------------------
+------------------------------
+Generation 109:
+-> Best fitness: 54
+-> The average fitness: 52.62
+-> Cost of best solution: 75
+Time: 85.187 s
+------------------------------
+------------------------------
+Generation 110:
+-> Best fitness: 54
+-> The average fitness: 52.93
+-> Cost of best solution: 75
+Time: 85.961 s
+------------------------------
+------------------------------
+Generation 111:
+-> Best fitness: 54
+-> The average fitness: 52.81
+-> Cost of best solution: 75
+Time: 86.719 s
+------------------------------
+------------------------------
+Generation 112:
+-> Best fitness: 54
+-> The average fitness: 52.87
+-> Cost of best solution: 75
+Time: 87.41 s
+------------------------------
+------------------------------
+Generation 113:
+-> Best fitness: 55
+-> The average fitness: 52.75
+-> Cost of best solution: 74
+Time: 88.132 s
+------------------------------
+------------------------------
+Generation 114:
+-> Best fitness: 55
+-> The average fitness: 52.62
+-> Cost of best solution: 74
+Time: 88.901 s
+------------------------------
+------------------------------
+Generation 115:
+-> Best fitness: 55
+-> The average fitness: 52.61
+-> Cost of best solution: 74
+Time: 89.659 s
+------------------------------
+------------------------------
+Generation 116:
+-> Best fitness: 55
+-> The average fitness: 52.31
+-> Cost of best solution: 74
+Time: 90.414 s
+------------------------------
+------------------------------
+Generation 117:
+-> Best fitness: 55
+-> The average fitness: 52.59
+-> Cost of best solution: 74
+Time: 91.085 s
+------------------------------
+------------------------------
+Generation 118:
+-> Best fitness: 55
+-> The average fitness: 52.7
+-> Cost of best solution: 74
+Time: 91.824 s
+------------------------------
+------------------------------
+Generation 119:
+-> Best fitness: 55
+-> The average fitness: 52.75
+-> Cost of best solution: 74
+Time: 92.543 s
+------------------------------
+------------------------------
+Generation 120:
+-> Best fitness: 55
+-> The average fitness: 52.56
+-> Cost of best solution: 74
+Time: 93.25 s
+------------------------------
+------------------------------
+Generation 121:
+-> Best fitness: 55
+-> The average fitness: 52.31
+-> Cost of best solution: 74
+Time: 94.074 s
+------------------------------
+------------------------------
+Generation 122:
+-> Best fitness: 55
+-> The average fitness: 53.03
+-> Cost of best solution: 74
+Time: 94.755 s
+------------------------------
+------------------------------
+Generation 123:
+-> Best fitness: 55
+-> The average fitness: 52.9
+-> Cost of best solution: 74
+Time: 95.544 s
+------------------------------
+------------------------------
+Generation 124:
+-> Best fitness: 55
+-> The average fitness: 52.68
+-> Cost of best solution: 74
+Time: 96.405 s
+------------------------------
+------------------------------
+Generation 125:
+-> Best fitness: 55
+-> The average fitness: 52.43
+-> Cost of best solution: 74
+Time: 97.109 s
+------------------------------
+------------------------------
+Generation 126:
+-> Best fitness: 55
+-> The average fitness: 53.34
+-> Cost of best solution: 74
+Time: 97.894 s
+------------------------------
+------------------------------
+Generation 127:
+-> Best fitness: 55
+-> The average fitness: 52.86
+-> Cost of best solution: 74
+Time: 98.651 s
+------------------------------
+------------------------------
+Generation 128:
+-> Best fitness: 55
+-> The average fitness: 52.83
+-> Cost of best solution: 74
+Time: 99.471 s
+------------------------------
+------------------------------
+Generation 129:
+-> Best fitness: 55
+-> The average fitness: 53.14
+-> Cost of best solution: 74
+Time: 100.28 s
+------------------------------
+------------------------------
+Generation 130:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 101.055 s
+------------------------------
+------------------------------
+Generation 131:
+-> Best fitness: 55
+-> The average fitness: 53.5
+-> Cost of best solution: 74
+Time: 101.845 s
+------------------------------
+------------------------------
+Generation 132:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 102.548 s
+------------------------------
+------------------------------
+Generation 133:
+-> Best fitness: 55
+-> The average fitness: 53.25
+-> Cost of best solution: 74
+Time: 103.238 s
+------------------------------
+------------------------------
+Generation 134:
+-> Best fitness: 55
+-> The average fitness: 53.3
+-> Cost of best solution: 74
+Time: 104.072 s
+------------------------------
+------------------------------
+Generation 135:
+-> Best fitness: 55
+-> The average fitness: 53.13
+-> Cost of best solution: 74
+Time: 104.861 s
+------------------------------
+------------------------------
+Generation 136:
+-> Best fitness: 55
+-> The average fitness: 52.78
+-> Cost of best solution: 74
+Time: 105.661 s
+------------------------------
+------------------------------
+Generation 137:
+-> Best fitness: 55
+-> The average fitness: 52.83
+-> Cost of best solution: 74
+Time: 106.564 s
+------------------------------
+------------------------------
+Generation 138:
+-> Best fitness: 55
+-> The average fitness: 52.8
+-> Cost of best solution: 74
+Time: 107.264 s
+------------------------------
+------------------------------
+Generation 139:
+-> Best fitness: 55
+-> The average fitness: 53.16
+-> Cost of best solution: 74
+Time: 108.092 s
+------------------------------
+------------------------------
+Generation 140:
+-> Best fitness: 55
+-> The average fitness: 52.86
+-> Cost of best solution: 74
+Time: 108.795 s
+------------------------------
+------------------------------
+Generation 141:
+-> Best fitness: 55
+-> The average fitness: 53.29
+-> Cost of best solution: 74
+Time: 109.577 s
+------------------------------
+------------------------------
+Generation 142:
+-> Best fitness: 55
+-> The average fitness: 53.02
+-> Cost of best solution: 74
+Time: 110.341 s
+------------------------------
+------------------------------
+Generation 143:
+-> Best fitness: 55
+-> The average fitness: 52.94
+-> Cost of best solution: 74
+Time: 111.147 s
+------------------------------
+------------------------------
+Generation 144:
+-> Best fitness: 55
+-> The average fitness: 53.39
+-> Cost of best solution: 74
+Time: 111.91 s
+------------------------------
+------------------------------
+Generation 145:
+-> Best fitness: 55
+-> The average fitness: 53.5
+-> Cost of best solution: 74
+Time: 112.674 s
+------------------------------
+------------------------------
+Generation 146:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 113.449 s
+------------------------------
+------------------------------
+Generation 147:
+-> Best fitness: 55
+-> The average fitness: 53.5
+-> Cost of best solution: 74
+Time: 114.238 s
+------------------------------
+------------------------------
+Generation 148:
+-> Best fitness: 55
+-> The average fitness: 53.79
+-> Cost of best solution: 74
+Time: 114.971 s
+------------------------------
+------------------------------
+Generation 149:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 115.805 s
+------------------------------
+------------------------------
+Generation 150:
+-> Best fitness: 55
+-> The average fitness: 52.95
+-> Cost of best solution: 74
+Time: 116.535 s
+------------------------------
+------------------------------
+Generation 151:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 117.274 s
+------------------------------
+------------------------------
+Generation 152:
+-> Best fitness: 55
+-> The average fitness: 54.04
+-> Cost of best solution: 74
+Time: 117.996 s
+------------------------------
+------------------------------
+Generation 153:
+-> Best fitness: 55
+-> The average fitness: 53.67
+-> Cost of best solution: 74
+Time: 118.853 s
+------------------------------
+------------------------------
+Generation 154:
+-> Best fitness: 55
+-> The average fitness: 54.19
+-> Cost of best solution: 74
+Time: 119.609 s
+------------------------------
+------------------------------
+Generation 155:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 120.418 s
+------------------------------
+------------------------------
+Generation 156:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 121.111 s
+------------------------------
+------------------------------
+Generation 157:
+-> Best fitness: 55
+-> The average fitness: 53.62
+-> Cost of best solution: 74
+Time: 121.911 s
+------------------------------
+------------------------------
+Generation 158:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 122.624 s
+------------------------------
+------------------------------
+Generation 159:
+-> Best fitness: 55
+-> The average fitness: 53.39
+-> Cost of best solution: 74
+Time: 123.366 s
+------------------------------
+------------------------------
+Generation 160:
+-> Best fitness: 55
+-> The average fitness: 53.51
+-> Cost of best solution: 74
+Time: 124.105 s
+------------------------------
+------------------------------
+Generation 161:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 124.855 s
+------------------------------
+------------------------------
+Generation 162:
+-> Best fitness: 55
+-> The average fitness: 53.08
+-> Cost of best solution: 74
+Time: 125.661 s
+------------------------------
+------------------------------
+Generation 163:
+-> Best fitness: 55
+-> The average fitness: 53.91
+-> Cost of best solution: 74
+Time: 126.488 s
+------------------------------
+------------------------------
+Generation 164:
+-> Best fitness: 55
+-> The average fitness: 53.32
+-> Cost of best solution: 74
+Time: 127.207 s
+------------------------------
+------------------------------
+Generation 165:
+-> Best fitness: 55
+-> The average fitness: 53.05
+-> Cost of best solution: 74
+Time: 127.938 s
+------------------------------
+------------------------------
+Generation 166:
+-> Best fitness: 55
+-> The average fitness: 52.94
+-> Cost of best solution: 74
+Time: 128.662 s
+------------------------------
+------------------------------
+Generation 167:
+-> Best fitness: 55
+-> The average fitness: 52.85
+-> Cost of best solution: 74
+Time: 129.384 s
+------------------------------
+------------------------------
+Generation 168:
+-> Best fitness: 55
+-> The average fitness: 52.87
+-> Cost of best solution: 74
+Time: 130.151 s
+------------------------------
+------------------------------
+Generation 169:
+-> Best fitness: 55
+-> The average fitness: 53.79
+-> Cost of best solution: 74
+Time: 130.859 s
+------------------------------
+------------------------------
+Generation 170:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 131.569 s
+------------------------------
+------------------------------
+Generation 171:
+-> Best fitness: 55
+-> The average fitness: 53.44
+-> Cost of best solution: 74
+Time: 132.267 s
+------------------------------
+------------------------------
+Generation 172:
+-> Best fitness: 55
+-> The average fitness: 52.51
+-> Cost of best solution: 74
+Time: 132.99 s
+------------------------------
+------------------------------
+Generation 173:
+-> Best fitness: 55
+-> The average fitness: 52.82
+-> Cost of best solution: 74
+Time: 133.808 s
+------------------------------
+------------------------------
+Generation 174:
+-> Best fitness: 55
+-> The average fitness: 52.63
+-> Cost of best solution: 74
+Time: 134.633 s
+------------------------------
+------------------------------
+Generation 175:
+-> Best fitness: 55
+-> The average fitness: 53.03
+-> Cost of best solution: 74
+Time: 135.33 s
+------------------------------
+------------------------------
+Generation 176:
+-> Best fitness: 55
+-> The average fitness: 52.92
+-> Cost of best solution: 74
+Time: 136.105 s
+------------------------------
+------------------------------
+Generation 177:
+-> Best fitness: 55
+-> The average fitness: 53.13
+-> Cost of best solution: 74
+Time: 136.926 s
+------------------------------
+------------------------------
+Generation 178:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 137.682 s
+------------------------------
+------------------------------
+Generation 179:
+-> Best fitness: 55
+-> The average fitness: 52.67
+-> Cost of best solution: 74
+Time: 138.431 s
+------------------------------
+------------------------------
+Generation 180:
+-> Best fitness: 55
+-> The average fitness: 52.01
+-> Cost of best solution: 74
+Time: 139.166 s
+------------------------------
+------------------------------
+Generation 181:
+-> Best fitness: 55
+-> The average fitness: 52.09
+-> Cost of best solution: 74
+Time: 139.926 s
+------------------------------
+------------------------------
+Generation 182:
+-> Best fitness: 55
+-> The average fitness: 51.94
+-> Cost of best solution: 74
+Time: 140.649 s
+------------------------------
+------------------------------
+Generation 183:
+-> Best fitness: 55
+-> The average fitness: 52.2
+-> Cost of best solution: 74
+Time: 141.469 s
+------------------------------
+------------------------------
+Generation 184:
+-> Best fitness: 55
+-> The average fitness: 52.5
+-> Cost of best solution: 74
+Time: 142.183 s
+------------------------------
+------------------------------
+Generation 185:
+-> Best fitness: 55
+-> The average fitness: 52.93
+-> Cost of best solution: 74
+Time: 142.867 s
+------------------------------
+------------------------------
+Generation 186:
+-> Best fitness: 55
+-> The average fitness: 52.82
+-> Cost of best solution: 74
+Time: 143.565 s
+------------------------------
+------------------------------
+Generation 187:
+-> Best fitness: 55
+-> The average fitness: 52.73
+-> Cost of best solution: 74
+Time: 144.277 s
+------------------------------
+------------------------------
+Generation 188:
+-> Best fitness: 55
+-> The average fitness: 52.8
+-> Cost of best solution: 74
+Time: 144.97 s
+------------------------------
+------------------------------
+Generation 189:
+-> Best fitness: 55
+-> The average fitness: 52.73
+-> Cost of best solution: 74
+Time: 145.717 s
+------------------------------
+------------------------------
+Generation 190:
+-> Best fitness: 55
+-> The average fitness: 52.8
+-> Cost of best solution: 74
+Time: 146.567 s
+------------------------------
+------------------------------
+Generation 191:
+-> Best fitness: 55
+-> The average fitness: 52.98
+-> Cost of best solution: 74
+Time: 147.318 s
+------------------------------
+------------------------------
+Generation 192:
+-> Best fitness: 55
+-> The average fitness: 53.43
+-> Cost of best solution: 74
+Time: 148.024 s
+------------------------------
+------------------------------
+Generation 193:
+-> Best fitness: 55
+-> The average fitness: 52.89
+-> Cost of best solution: 74
+Time: 148.757 s
+------------------------------
+------------------------------
+Generation 194:
+-> Best fitness: 55
+-> The average fitness: 52.93
+-> Cost of best solution: 74
+Time: 149.458 s
+------------------------------
+------------------------------
+Generation 195:
+-> Best fitness: 55
+-> The average fitness: 53.37
+-> Cost of best solution: 74
+Time: 150.223 s
+------------------------------
+------------------------------
+Generation 196:
+-> Best fitness: 55
+-> The average fitness: 53.14
+-> Cost of best solution: 74
+Time: 150.939 s
+------------------------------
+------------------------------
+Generation 197:
+-> Best fitness: 55
+-> The average fitness: 53.13
+-> Cost of best solution: 74
+Time: 151.654 s
+------------------------------
+------------------------------
+Generation 198:
+-> Best fitness: 55
+-> The average fitness: 52.57
+-> Cost of best solution: 74
+Time: 152.419 s
+------------------------------
+------------------------------
+Generation 199:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 153.209 s
+------------------------------
+------------------------------
+Generation 200:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 154.007 s
+------------------------------
+------------------------------
+Generation 201:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 154.75 s
+------------------------------
+------------------------------
+Generation 202:
+-> Best fitness: 55
+-> The average fitness: 53.32
+-> Cost of best solution: 74
+Time: 155.528 s
+------------------------------
+------------------------------
+Generation 203:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 156.303 s
+------------------------------
+------------------------------
+Generation 204:
+-> Best fitness: 55
+-> The average fitness: 53.97
+-> Cost of best solution: 74
+Time: 157.005 s
+------------------------------
+------------------------------
+Generation 205:
+-> Best fitness: 55
+-> The average fitness: 54.19
+-> Cost of best solution: 74
+Time: 157.721 s
+------------------------------
+------------------------------
+Generation 206:
+-> Best fitness: 55
+-> The average fitness: 54.28
+-> Cost of best solution: 74
+Time: 158.456 s
+------------------------------
+------------------------------
+Generation 207:
+-> Best fitness: 55
+-> The average fitness: 54.23
+-> Cost of best solution: 74
+Time: 159.222 s
+------------------------------
+------------------------------
+Generation 208:
+-> Best fitness: 55
+-> The average fitness: 54.02
+-> Cost of best solution: 74
+Time: 159.993 s
+------------------------------
+------------------------------
+Generation 209:
+-> Best fitness: 55
+-> The average fitness: 53.84
+-> Cost of best solution: 74
+Time: 160.773 s
+------------------------------
+------------------------------
+Generation 210:
+-> Best fitness: 55
+-> The average fitness: 53.78
+-> Cost of best solution: 74
+Time: 161.597 s
+------------------------------
+------------------------------
+Generation 211:
+-> Best fitness: 55
+-> The average fitness: 53.79
+-> Cost of best solution: 74
+Time: 162.314 s
+------------------------------
+------------------------------
+Generation 212:
+-> Best fitness: 55
+-> The average fitness: 52.79
+-> Cost of best solution: 74
+Time: 163.113 s
+------------------------------
+------------------------------
+Generation 213:
+-> Best fitness: 55
+-> The average fitness: 52.99
+-> Cost of best solution: 74
+Time: 163.951 s
+------------------------------
+------------------------------
+Generation 214:
+-> Best fitness: 55
+-> The average fitness: 52.84
+-> Cost of best solution: 74
+Time: 164.78 s
+------------------------------
+------------------------------
+Generation 215:
+-> Best fitness: 55
+-> The average fitness: 53.08
+-> Cost of best solution: 74
+Time: 165.48 s
+------------------------------
+------------------------------
+Generation 216:
+-> Best fitness: 55
+-> The average fitness: 52.84
+-> Cost of best solution: 74
+Time: 166.283 s
+------------------------------
+------------------------------
+Generation 217:
+-> Best fitness: 55
+-> The average fitness: 53.28
+-> Cost of best solution: 74
+Time: 166.979 s
+------------------------------
+------------------------------
+Generation 218:
+-> Best fitness: 55
+-> The average fitness: 52.92
+-> Cost of best solution: 74
+Time: 167.751 s
+------------------------------
+------------------------------
+Generation 219:
+-> Best fitness: 55
+-> The average fitness: 52.68
+-> Cost of best solution: 74
+Time: 168.475 s
+------------------------------
+------------------------------
+Generation 220:
+-> Best fitness: 55
+-> The average fitness: 52.19
+-> Cost of best solution: 74
+Time: 169.214 s
+------------------------------
+------------------------------
+Generation 221:
+-> Best fitness: 55
+-> The average fitness: 51.88
+-> Cost of best solution: 74
+Time: 169.936 s
+------------------------------
+------------------------------
+Generation 222:
+-> Best fitness: 55
+-> The average fitness: 52.8
+-> Cost of best solution: 74
+Time: 170.704 s
+------------------------------
+------------------------------
+Generation 223:
+-> Best fitness: 55
+-> The average fitness: 53
+-> Cost of best solution: 74
+Time: 171.496 s
+------------------------------
+------------------------------
+Generation 224:
+-> Best fitness: 55
+-> The average fitness: 53.06
+-> Cost of best solution: 74
+Time: 172.23 s
+------------------------------
+------------------------------
+Generation 225:
+-> Best fitness: 55
+-> The average fitness: 53.18
+-> Cost of best solution: 74
+Time: 173.019 s
+------------------------------
+------------------------------
+Generation 226:
+-> Best fitness: 55
+-> The average fitness: 52.53
+-> Cost of best solution: 74
+Time: 173.875 s
+------------------------------
+------------------------------
+Generation 227:
+-> Best fitness: 55
+-> The average fitness: 52.32
+-> Cost of best solution: 74
+Time: 174.686 s
+------------------------------
+------------------------------
+Generation 228:
+-> Best fitness: 55
+-> The average fitness: 52.48
+-> Cost of best solution: 74
+Time: 175.53 s
+------------------------------
+------------------------------
+Generation 229:
+-> Best fitness: 55
+-> The average fitness: 52.47
+-> Cost of best solution: 74
+Time: 176.234 s
+------------------------------
+------------------------------
+Generation 230:
+-> Best fitness: 55
+-> The average fitness: 53.43
+-> Cost of best solution: 74
+Time: 176.955 s
+------------------------------
+------------------------------
+Generation 231:
+-> Best fitness: 55
+-> The average fitness: 53.02
+-> Cost of best solution: 74
+Time: 177.703 s
+------------------------------
+------------------------------
+Generation 232:
+-> Best fitness: 55
+-> The average fitness: 53.19
+-> Cost of best solution: 74
+Time: 178.388 s
+------------------------------
+------------------------------
+Generation 233:
+-> Best fitness: 55
+-> The average fitness: 52.91
+-> Cost of best solution: 74
+Time: 179.088 s
+------------------------------
+------------------------------
+Generation 234:
+-> Best fitness: 55
+-> The average fitness: 53.32
+-> Cost of best solution: 74
+Time: 179.791 s
+------------------------------
+------------------------------
+Generation 235:
+-> Best fitness: 55
+-> The average fitness: 53.21
+-> Cost of best solution: 74
+Time: 180.547 s
+------------------------------
+------------------------------
+Generation 236:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 181.35 s
+------------------------------
+------------------------------
+Generation 237:
+-> Best fitness: 55
+-> The average fitness: 53
+-> Cost of best solution: 74
+Time: 182.113 s
+------------------------------
+------------------------------
+Generation 238:
+-> Best fitness: 55
+-> The average fitness: 52.47
+-> Cost of best solution: 74
+Time: 182.792 s
+------------------------------
+------------------------------
+Generation 239:
+-> Best fitness: 55
+-> The average fitness: 52.83
+-> Cost of best solution: 74
+Time: 183.592 s
+------------------------------
+------------------------------
+Generation 240:
+-> Best fitness: 55
+-> The average fitness: 53.51
+-> Cost of best solution: 74
+Time: 184.305 s
+------------------------------
+------------------------------
+Generation 241:
+-> Best fitness: 55
+-> The average fitness: 53.04
+-> Cost of best solution: 74
+Time: 185.057 s
+------------------------------
+------------------------------
+Generation 242:
+-> Best fitness: 55
+-> The average fitness: 52.62
+-> Cost of best solution: 74
+Time: 185.932 s
+------------------------------
+------------------------------
+Generation 243:
+-> Best fitness: 55
+-> The average fitness: 52.91
+-> Cost of best solution: 74
+Time: 186.656 s
+------------------------------
+------------------------------
+Generation 244:
+-> Best fitness: 55
+-> The average fitness: 52.16
+-> Cost of best solution: 74
+Time: 187.424 s
+------------------------------
+------------------------------
+Generation 245:
+-> Best fitness: 55
+-> The average fitness: 51.28
+-> Cost of best solution: 74
+Time: 188.187 s
+------------------------------
+------------------------------
+Generation 246:
+-> Best fitness: 55
+-> The average fitness: 52.52
+-> Cost of best solution: 74
+Time: 188.928 s
+------------------------------
+------------------------------
+Generation 247:
+-> Best fitness: 55
+-> The average fitness: 52.97
+-> Cost of best solution: 74
+Time: 189.684 s
+------------------------------
+------------------------------
+Generation 248:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 190.398 s
+------------------------------
+------------------------------
+Generation 249:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 191.103 s
+------------------------------
+------------------------------
+Generation 250:
+-> Best fitness: 55
+-> The average fitness: 53.62
+-> Cost of best solution: 74
+Time: 191.855 s
+------------------------------
+------------------------------
+Generation 251:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 192.554 s
+------------------------------
+------------------------------
+Generation 252:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 193.263 s
+------------------------------
+------------------------------
+Generation 253:
+-> Best fitness: 55
+-> The average fitness: 53.25
+-> Cost of best solution: 74
+Time: 194.054 s
+------------------------------
+------------------------------
+Generation 254:
+-> Best fitness: 55
+-> The average fitness: 53.61
+-> Cost of best solution: 74
+Time: 194.846 s
+------------------------------
+------------------------------
+Generation 255:
+-> Best fitness: 55
+-> The average fitness: 53.24
+-> Cost of best solution: 74
+Time: 195.572 s
+------------------------------
+------------------------------
+Generation 256:
+-> Best fitness: 55
+-> The average fitness: 53.71
+-> Cost of best solution: 74
+Time: 196.266 s
+------------------------------
+------------------------------
+Generation 257:
+-> Best fitness: 55
+-> The average fitness: 53.84
+-> Cost of best solution: 74
+Time: 196.965 s
+------------------------------
+------------------------------
+Generation 258:
+-> Best fitness: 55
+-> The average fitness: 54.05
+-> Cost of best solution: 74
+Time: 197.774 s
+------------------------------
+------------------------------
+Generation 259:
+-> Best fitness: 55
+-> The average fitness: 53.5
+-> Cost of best solution: 74
+Time: 198.598 s
+------------------------------
+------------------------------
+Generation 260:
+-> Best fitness: 55
+-> The average fitness: 53.67
+-> Cost of best solution: 74
+Time: 199.339 s
+------------------------------
+------------------------------
+Generation 261:
+-> Best fitness: 55
+-> The average fitness: 53.61
+-> Cost of best solution: 74
+Time: 200.041 s
+------------------------------
+------------------------------
+Generation 262:
+-> Best fitness: 55
+-> The average fitness: 53.81
+-> Cost of best solution: 74
+Time: 200.808 s
+------------------------------
+------------------------------
+Generation 263:
+-> Best fitness: 55
+-> The average fitness: 53.36
+-> Cost of best solution: 74
+Time: 201.523 s
+------------------------------
+------------------------------
+Generation 264:
+-> Best fitness: 55
+-> The average fitness: 53.25
+-> Cost of best solution: 74
+Time: 202.366 s
+------------------------------
+------------------------------
+Generation 265:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 203.05 s
+------------------------------
+------------------------------
+Generation 266:
+-> Best fitness: 55
+-> The average fitness: 53.31
+-> Cost of best solution: 74
+Time: 203.749 s
+------------------------------
+------------------------------
+Generation 267:
+-> Best fitness: 55
+-> The average fitness: 53.36
+-> Cost of best solution: 74
+Time: 204.493 s
+------------------------------
+------------------------------
+Generation 268:
+-> Best fitness: 55
+-> The average fitness: 53.77
+-> Cost of best solution: 74
+Time: 205.192 s
+------------------------------
+------------------------------
+Generation 269:
+-> Best fitness: 55
+-> The average fitness: 53.91
+-> Cost of best solution: 74
+Time: 206.084 s
+------------------------------
+------------------------------
+Generation 270:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 206.82 s
+------------------------------
+------------------------------
+Generation 271:
+-> Best fitness: 55
+-> The average fitness: 53.43
+-> Cost of best solution: 74
+Time: 207.549 s
+------------------------------
+------------------------------
+Generation 272:
+-> Best fitness: 55
+-> The average fitness: 52.52
+-> Cost of best solution: 74
+Time: 208.252 s
+------------------------------
+------------------------------
+Generation 273:
+-> Best fitness: 55
+-> The average fitness: 52.89
+-> Cost of best solution: 74
+Time: 209.007 s
+------------------------------
+------------------------------
+Generation 274:
+-> Best fitness: 55
+-> The average fitness: 53.13
+-> Cost of best solution: 74
+Time: 209.724 s
+------------------------------
+------------------------------
+Generation 275:
+-> Best fitness: 55
+-> The average fitness: 53.44
+-> Cost of best solution: 74
+Time: 210.419 s
+------------------------------
+------------------------------
+Generation 276:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 211.121 s
+------------------------------
+------------------------------
+Generation 277:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 211.838 s
+------------------------------
+------------------------------
+Generation 278:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 212.535 s
+------------------------------
+------------------------------
+Generation 279:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 213.333 s
+------------------------------
+------------------------------
+Generation 280:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 214.148 s
+------------------------------
+------------------------------
+Generation 281:
+-> Best fitness: 55
+-> The average fitness: 53.39
+-> Cost of best solution: 74
+Time: 214.884 s
+------------------------------
+------------------------------
+Generation 282:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 215.679 s
+------------------------------
+------------------------------
+Generation 283:
+-> Best fitness: 55
+-> The average fitness: 53.28
+-> Cost of best solution: 74
+Time: 216.55 s
+------------------------------
+------------------------------
+Generation 284:
+-> Best fitness: 55
+-> The average fitness: 53.19
+-> Cost of best solution: 74
+Time: 217.308 s
+------------------------------
+------------------------------
+Generation 285:
+-> Best fitness: 55
+-> The average fitness: 53
+-> Cost of best solution: 74
+Time: 218.172 s
+------------------------------
+------------------------------
+Generation 286:
+-> Best fitness: 55
+-> The average fitness: 53.37
+-> Cost of best solution: 74
+Time: 218.855 s
+------------------------------
+------------------------------
+Generation 287:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 219.627 s
+------------------------------
+------------------------------
+Generation 288:
+-> Best fitness: 55
+-> The average fitness: 53.31
+-> Cost of best solution: 74
+Time: 220.344 s
+------------------------------
+------------------------------
+Generation 289:
+-> Best fitness: 55
+-> The average fitness: 53.82
+-> Cost of best solution: 74
+Time: 221.091 s
+------------------------------
+------------------------------
+Generation 290:
+-> Best fitness: 55
+-> The average fitness: 54.01
+-> Cost of best solution: 74
+Time: 221.789 s
+------------------------------
+------------------------------
+Generation 291:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 222.551 s
+------------------------------
+------------------------------
+Generation 292:
+-> Best fitness: 55
+-> The average fitness: 53.4
+-> Cost of best solution: 74
+Time: 223.26 s
+------------------------------
+------------------------------
+Generation 293:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 224.037 s
+------------------------------
+------------------------------
+Generation 294:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 224.745 s
+------------------------------
+------------------------------
+Generation 295:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 225.478 s
+------------------------------
+------------------------------
+Generation 296:
+-> Best fitness: 55
+-> The average fitness: 53.95
+-> Cost of best solution: 74
+Time: 226.373 s
+------------------------------
+------------------------------
+Generation 297:
+-> Best fitness: 55
+-> The average fitness: 53.93
+-> Cost of best solution: 74
+Time: 227.173 s
+------------------------------
+------------------------------
+Generation 298:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 227.921 s
+------------------------------
+------------------------------
+Generation 299:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 228.715 s
+------------------------------
+------------------------------
+Generation 300:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 229.493 s
+------------------------------
+------------------------------
+Generation 301:
+-> Best fitness: 55
+-> The average fitness: 54.12
+-> Cost of best solution: 74
+Time: 230.198 s
+------------------------------
+------------------------------
+Generation 302:
+-> Best fitness: 55
+-> The average fitness: 53.71
+-> Cost of best solution: 74
+Time: 230.921 s
+------------------------------
+------------------------------
+Generation 303:
+-> Best fitness: 55
+-> The average fitness: 54.21
+-> Cost of best solution: 74
+Time: 231.641 s
+------------------------------
+------------------------------
+Generation 304:
+-> Best fitness: 55
+-> The average fitness: 54.05
+-> Cost of best solution: 74
+Time: 232.42 s
+------------------------------
+------------------------------
+Generation 305:
+-> Best fitness: 55
+-> The average fitness: 53.88
+-> Cost of best solution: 74
+Time: 233.174 s
+------------------------------
+------------------------------
+Generation 306:
+-> Best fitness: 55
+-> The average fitness: 53.71
+-> Cost of best solution: 74
+Time: 233.889 s
+------------------------------
+------------------------------
+Generation 307:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 234.642 s
+------------------------------
+------------------------------
+Generation 308:
+-> Best fitness: 55
+-> The average fitness: 53.99
+-> Cost of best solution: 74
+Time: 235.405 s
+------------------------------
+------------------------------
+Generation 309:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 236.17 s
+------------------------------
+------------------------------
+Generation 310:
+-> Best fitness: 55
+-> The average fitness: 53.69
+-> Cost of best solution: 74
+Time: 236.973 s
+------------------------------
+------------------------------
+Generation 311:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 237.737 s
+------------------------------
+------------------------------
+Generation 312:
+-> Best fitness: 55
+-> The average fitness: 54.09
+-> Cost of best solution: 74
+Time: 238.421 s
+------------------------------
+------------------------------
+Generation 313:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 239.159 s
+------------------------------
+------------------------------
+Generation 314:
+-> Best fitness: 55
+-> The average fitness: 52.69
+-> Cost of best solution: 74
+Time: 240.037 s
+------------------------------
+------------------------------
+Generation 315:
+-> Best fitness: 55
+-> The average fitness: 53.03
+-> Cost of best solution: 74
+Time: 240.747 s
+------------------------------
+------------------------------
+Generation 316:
+-> Best fitness: 55
+-> The average fitness: 53.2
+-> Cost of best solution: 74
+Time: 241.471 s
+------------------------------
+------------------------------
+Generation 317:
+-> Best fitness: 55
+-> The average fitness: 52.8
+-> Cost of best solution: 74
+Time: 242.226 s
+------------------------------
+------------------------------
+Generation 318:
+-> Best fitness: 55
+-> The average fitness: 53.28
+-> Cost of best solution: 74
+Time: 243.026 s
+------------------------------
+------------------------------
+Generation 319:
+-> Best fitness: 55
+-> The average fitness: 53.1
+-> Cost of best solution: 74
+Time: 243.897 s
+------------------------------
+------------------------------
+Generation 320:
+-> Best fitness: 55
+-> The average fitness: 52.69
+-> Cost of best solution: 74
+Time: 244.596 s
+------------------------------
+------------------------------
+Generation 321:
+-> Best fitness: 55
+-> The average fitness: 52.75
+-> Cost of best solution: 74
+Time: 245.372 s
+------------------------------
+------------------------------
+Generation 322:
+-> Best fitness: 55
+-> The average fitness: 52.41
+-> Cost of best solution: 74
+Time: 246.182 s
+------------------------------
+------------------------------
+Generation 323:
+-> Best fitness: 55
+-> The average fitness: 52.51
+-> Cost of best solution: 74
+Time: 246.896 s
+------------------------------
+------------------------------
+Generation 324:
+-> Best fitness: 55
+-> The average fitness: 52.2
+-> Cost of best solution: 74
+Time: 247.637 s
+------------------------------
+------------------------------
+Generation 325:
+-> Best fitness: 55
+-> The average fitness: 52.75
+-> Cost of best solution: 74
+Time: 248.362 s
+------------------------------
+------------------------------
+Generation 326:
+-> Best fitness: 55
+-> The average fitness: 53.17
+-> Cost of best solution: 74
+Time: 249.092 s
+------------------------------
+------------------------------
+Generation 327:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 249.879 s
+------------------------------
+------------------------------
+Generation 328:
+-> Best fitness: 55
+-> The average fitness: 54
+-> Cost of best solution: 74
+Time: 250.584 s
+------------------------------
+------------------------------
+Generation 329:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 251.303 s
+------------------------------
+------------------------------
+Generation 330:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 252.013 s
+------------------------------
+------------------------------
+Generation 331:
+-> Best fitness: 55
+-> The average fitness: 53.35
+-> Cost of best solution: 74
+Time: 252.762 s
+------------------------------
+------------------------------
+Generation 332:
+-> Best fitness: 55
+-> The average fitness: 53.38
+-> Cost of best solution: 74
+Time: 253.489 s
+------------------------------
+------------------------------
+Generation 333:
+-> Best fitness: 55
+-> The average fitness: 53.9
+-> Cost of best solution: 74
+Time: 254.275 s
+------------------------------
+------------------------------
+Generation 334:
+-> Best fitness: 55
+-> The average fitness: 53.71
+-> Cost of best solution: 74
+Time: 255.111 s
+------------------------------
+------------------------------
+Generation 335:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 255.953 s
+------------------------------
+------------------------------
+Generation 336:
+-> Best fitness: 55
+-> The average fitness: 53.37
+-> Cost of best solution: 74
+Time: 256.702 s
+------------------------------
+------------------------------
+Generation 337:
+-> Best fitness: 55
+-> The average fitness: 53.43
+-> Cost of best solution: 74
+Time: 257.494 s
+------------------------------
+------------------------------
+Generation 338:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 258.254 s
+------------------------------
+------------------------------
+Generation 339:
+-> Best fitness: 55
+-> The average fitness: 53.87
+-> Cost of best solution: 74
+Time: 259.121 s
+------------------------------
+------------------------------
+Generation 340:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 259.912 s
+------------------------------
+------------------------------
+Generation 341:
+-> Best fitness: 55
+-> The average fitness: 53.27
+-> Cost of best solution: 74
+Time: 260.689 s
+------------------------------
+------------------------------
+Generation 342:
+-> Best fitness: 55
+-> The average fitness: 53.08
+-> Cost of best solution: 74
+Time: 261.447 s
+------------------------------
+------------------------------
+Generation 343:
+-> Best fitness: 55
+-> The average fitness: 53.43
+-> Cost of best solution: 74
+Time: 262.217 s
+------------------------------
+------------------------------
+Generation 344:
+-> Best fitness: 55
+-> The average fitness: 53.21
+-> Cost of best solution: 74
+Time: 262.959 s
+------------------------------
+------------------------------
+Generation 345:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 263.676 s
+------------------------------
+------------------------------
+Generation 346:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 264.399 s
+------------------------------
+------------------------------
+Generation 347:
+-> Best fitness: 55
+-> The average fitness: 53.63
+-> Cost of best solution: 74
+Time: 265.139 s
+------------------------------
+------------------------------
+Generation 348:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 265.872 s
+------------------------------
+------------------------------
+Generation 349:
+-> Best fitness: 55
+-> The average fitness: 53.28
+-> Cost of best solution: 74
+Time: 266.614 s
+------------------------------
+------------------------------
+Generation 350:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 267.328 s
+------------------------------
+------------------------------
+Generation 351:
+-> Best fitness: 55
+-> The average fitness: 53.42
+-> Cost of best solution: 74
+Time: 268.128 s
+------------------------------
+------------------------------
+Generation 352:
+-> Best fitness: 55
+-> The average fitness: 53.14
+-> Cost of best solution: 74
+Time: 268.834 s
+------------------------------
+------------------------------
+Generation 353:
+-> Best fitness: 55
+-> The average fitness: 53.69
+-> Cost of best solution: 74
+Time: 269.605 s
+------------------------------
+------------------------------
+Generation 354:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 270.374 s
+------------------------------
+------------------------------
+Generation 355:
+-> Best fitness: 55
+-> The average fitness: 54.02
+-> Cost of best solution: 74
+Time: 271.185 s
+------------------------------
+------------------------------
+Generation 356:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 271.963 s
+------------------------------
+------------------------------
+Generation 357:
+-> Best fitness: 55
+-> The average fitness: 53.91
+-> Cost of best solution: 74
+Time: 272.81 s
+------------------------------
+------------------------------
+Generation 358:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 273.556 s
+------------------------------
+------------------------------
+Generation 359:
+-> Best fitness: 55
+-> The average fitness: 53.9
+-> Cost of best solution: 74
+Time: 274.248 s
+------------------------------
+------------------------------
+Generation 360:
+-> Best fitness: 55
+-> The average fitness: 53.95
+-> Cost of best solution: 74
+Time: 274.983 s
+------------------------------
+------------------------------
+Generation 361:
+-> Best fitness: 55
+-> The average fitness: 53.82
+-> Cost of best solution: 74
+Time: 275.701 s
+------------------------------
+------------------------------
+Generation 362:
+-> Best fitness: 55
+-> The average fitness: 53.9
+-> Cost of best solution: 74
+Time: 276.398 s
+------------------------------
+------------------------------
+Generation 363:
+-> Best fitness: 55
+-> The average fitness: 53.95
+-> Cost of best solution: 74
+Time: 277.162 s
+------------------------------
+------------------------------
+Generation 364:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 277.945 s
+------------------------------
+------------------------------
+Generation 365:
+-> Best fitness: 55
+-> The average fitness: 53.78
+-> Cost of best solution: 74
+Time: 278.774 s
+------------------------------
+------------------------------
+Generation 366:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 279.6 s
+------------------------------
+------------------------------
+Generation 367:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 280.419 s
+------------------------------
+------------------------------
+Generation 368:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 281.202 s
+------------------------------
+------------------------------
+Generation 369:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 281.947 s
+------------------------------
+------------------------------
+Generation 370:
+-> Best fitness: 55
+-> The average fitness: 54.04
+-> Cost of best solution: 74
+Time: 282.692 s
+------------------------------
+------------------------------
+Generation 371:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 283.399 s
+------------------------------
+------------------------------
+Generation 372:
+-> Best fitness: 55
+-> The average fitness: 53.13
+-> Cost of best solution: 74
+Time: 284.225 s
+------------------------------
+------------------------------
+Generation 373:
+-> Best fitness: 55
+-> The average fitness: 53.45
+-> Cost of best solution: 74
+Time: 284.924 s
+------------------------------
+------------------------------
+Generation 374:
+-> Best fitness: 55
+-> The average fitness: 53.35
+-> Cost of best solution: 74
+Time: 285.672 s
+------------------------------
+------------------------------
+Generation 375:
+-> Best fitness: 55
+-> The average fitness: 53.09
+-> Cost of best solution: 74
+Time: 286.396 s
+------------------------------
+------------------------------
+Generation 376:
+-> Best fitness: 55
+-> The average fitness: 53.31
+-> Cost of best solution: 74
+Time: 287.123 s
+------------------------------
+------------------------------
+Generation 377:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 287.86 s
+------------------------------
+------------------------------
+Generation 378:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 288.582 s
+------------------------------
+------------------------------
+Generation 379:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 289.384 s
+------------------------------
+------------------------------
+Generation 380:
+-> Best fitness: 55
+-> The average fitness: 53.96
+-> Cost of best solution: 74
+Time: 290.179 s
+------------------------------
+------------------------------
+Generation 381:
+-> Best fitness: 55
+-> The average fitness: 53.88
+-> Cost of best solution: 74
+Time: 290.891 s
+------------------------------
+------------------------------
+Generation 382:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 291.666 s
+------------------------------
+------------------------------
+Generation 383:
+-> Best fitness: 55
+-> The average fitness: 53.99
+-> Cost of best solution: 74
+Time: 292.512 s
+------------------------------
+------------------------------
+Generation 384:
+-> Best fitness: 55
+-> The average fitness: 54.16
+-> Cost of best solution: 74
+Time: 293.284 s
+------------------------------
+------------------------------
+Generation 385:
+-> Best fitness: 55
+-> The average fitness: 53.99
+-> Cost of best solution: 74
+Time: 294.062 s
+------------------------------
+------------------------------
+Generation 386:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 294.794 s
+------------------------------
+------------------------------
+Generation 387:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 295.517 s
+------------------------------
+------------------------------
+Generation 388:
+-> Best fitness: 55
+-> The average fitness: 53.96
+-> Cost of best solution: 74
+Time: 296.234 s
+------------------------------
+------------------------------
+Generation 389:
+-> Best fitness: 55
+-> The average fitness: 54.17
+-> Cost of best solution: 74
+Time: 296.92 s
+------------------------------
+------------------------------
+Generation 390:
+-> Best fitness: 55
+-> The average fitness: 53.9
+-> Cost of best solution: 74
+Time: 297.739 s
+------------------------------
+------------------------------
+Generation 391:
+-> Best fitness: 55
+-> The average fitness: 53.97
+-> Cost of best solution: 74
+Time: 298.483 s
+------------------------------
+------------------------------
+Generation 392:
+-> Best fitness: 55
+-> The average fitness: 54.18
+-> Cost of best solution: 74
+Time: 299.183 s
+------------------------------
+------------------------------
+Generation 393:
+-> Best fitness: 55
+-> The average fitness: 54.17
+-> Cost of best solution: 74
+Time: 299.996 s
+------------------------------
+------------------------------
+Generation 394:
+-> Best fitness: 55
+-> The average fitness: 54.18
+-> Cost of best solution: 74
+Time: 300.732 s
+------------------------------
+------------------------------
+Generation 395:
+-> Best fitness: 55
+-> The average fitness: 53.51
+-> Cost of best solution: 74
+Time: 301.528 s
+------------------------------
+------------------------------
+Generation 396:
+-> Best fitness: 55
+-> The average fitness: 53.91
+-> Cost of best solution: 74
+Time: 302.342 s
+------------------------------
+------------------------------
+Generation 397:
+-> Best fitness: 55
+-> The average fitness: 53.94
+-> Cost of best solution: 74
+Time: 303.08 s
+------------------------------
+------------------------------
+Generation 398:
+-> Best fitness: 55
+-> The average fitness: 54.19
+-> Cost of best solution: 74
+Time: 303.798 s
+------------------------------
+------------------------------
+Generation 399:
+-> Best fitness: 55
+-> The average fitness: 54.32
+-> Cost of best solution: 74
+Time: 304.578 s
+------------------------------
+------------------------------
+Generation 400:
+-> Best fitness: 55
+-> The average fitness: 54.19
+-> Cost of best solution: 74
+Time: 305.312 s
+------------------------------
+------------------------------
+Generation 401:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 306.06 s
+------------------------------
+------------------------------
+Generation 402:
+-> Best fitness: 55
+-> The average fitness: 53
+-> Cost of best solution: 74
+Time: 306.792 s
+------------------------------
+------------------------------
+Generation 403:
+-> Best fitness: 55
+-> The average fitness: 53.55
+-> Cost of best solution: 74
+Time: 307.499 s
+------------------------------
+------------------------------
+Generation 404:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 308.185 s
+------------------------------
+------------------------------
+Generation 405:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 309.016 s
+------------------------------
+------------------------------
+Generation 406:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 309.764 s
+------------------------------
+------------------------------
+Generation 407:
+-> Best fitness: 55
+-> The average fitness: 53.06
+-> Cost of best solution: 74
+Time: 310.598 s
+------------------------------
+------------------------------
+Generation 408:
+-> Best fitness: 55
+-> The average fitness: 53.45
+-> Cost of best solution: 74
+Time: 311.372 s
+------------------------------
+------------------------------
+Generation 409:
+-> Best fitness: 55
+-> The average fitness: 53.51
+-> Cost of best solution: 74
+Time: 312.095 s
+------------------------------
+------------------------------
+Generation 410:
+-> Best fitness: 55
+-> The average fitness: 53.74
+-> Cost of best solution: 74
+Time: 312.818 s
+------------------------------
+------------------------------
+Generation 411:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 313.508 s
+------------------------------
+------------------------------
+Generation 412:
+-> Best fitness: 55
+-> The average fitness: 53.58
+-> Cost of best solution: 74
+Time: 314.223 s
+------------------------------
+------------------------------
+Generation 413:
+-> Best fitness: 55
+-> The average fitness: 53.87
+-> Cost of best solution: 74
+Time: 314.923 s
+------------------------------
+------------------------------
+Generation 414:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 315.753 s
+------------------------------
+------------------------------
+Generation 415:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 316.509 s
+------------------------------
+------------------------------
+Generation 416:
+-> Best fitness: 55
+-> The average fitness: 53.38
+-> Cost of best solution: 74
+Time: 317.21 s
+------------------------------
+------------------------------
+Generation 417:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 317.926 s
+------------------------------
+------------------------------
+Generation 418:
+-> Best fitness: 55
+-> The average fitness: 53.96
+-> Cost of best solution: 74
+Time: 318.642 s
+------------------------------
+------------------------------
+Generation 419:
+-> Best fitness: 55
+-> The average fitness: 54.13
+-> Cost of best solution: 74
+Time: 319.376 s
+------------------------------
+------------------------------
+Generation 420:
+-> Best fitness: 55
+-> The average fitness: 54.31
+-> Cost of best solution: 74
+Time: 320.078 s
+------------------------------
+------------------------------
+Generation 421:
+-> Best fitness: 55
+-> The average fitness: 53.77
+-> Cost of best solution: 74
+Time: 320.82 s
+------------------------------
+------------------------------
+Generation 422:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 321.575 s
+------------------------------
+------------------------------
+Generation 423:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 322.356 s
+------------------------------
+------------------------------
+Generation 424:
+-> Best fitness: 55
+-> The average fitness: 54.05
+-> Cost of best solution: 74
+Time: 323.08 s
+------------------------------
+------------------------------
+Generation 425:
+-> Best fitness: 55
+-> The average fitness: 54.02
+-> Cost of best solution: 74
+Time: 323.825 s
+------------------------------
+------------------------------
+Generation 426:
+-> Best fitness: 55
+-> The average fitness: 54.02
+-> Cost of best solution: 74
+Time: 324.6 s
+------------------------------
+------------------------------
+Generation 427:
+-> Best fitness: 55
+-> The average fitness: 54.12
+-> Cost of best solution: 74
+Time: 325.324 s
+------------------------------
+------------------------------
+Generation 428:
+-> Best fitness: 55
+-> The average fitness: 53.74
+-> Cost of best solution: 74
+Time: 326.131 s
+------------------------------
+------------------------------
+Generation 429:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 326.846 s
+------------------------------
+------------------------------
+Generation 430:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 327.571 s
+------------------------------
+------------------------------
+Generation 431:
+-> Best fitness: 55
+-> The average fitness: 53.3
+-> Cost of best solution: 74
+Time: 328.371 s
+------------------------------
+------------------------------
+Generation 432:
+-> Best fitness: 55
+-> The average fitness: 52.93
+-> Cost of best solution: 74
+Time: 329.137 s
+------------------------------
+------------------------------
+Generation 433:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 329.923 s
+------------------------------
+------------------------------
+Generation 434:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 330.658 s
+------------------------------
+------------------------------
+Generation 435:
+-> Best fitness: 55
+-> The average fitness: 53.79
+-> Cost of best solution: 74
+Time: 331.365 s
+------------------------------
+------------------------------
+Generation 436:
+-> Best fitness: 55
+-> The average fitness: 53.84
+-> Cost of best solution: 74
+Time: 332.132 s
+------------------------------
+------------------------------
+Generation 437:
+-> Best fitness: 55
+-> The average fitness: 53.92
+-> Cost of best solution: 74
+Time: 332.849 s
+------------------------------
+------------------------------
+Generation 438:
+-> Best fitness: 55
+-> The average fitness: 53.81
+-> Cost of best solution: 74
+Time: 333.579 s
+------------------------------
+------------------------------
+Generation 439:
+-> Best fitness: 55
+-> The average fitness: 54.07
+-> Cost of best solution: 74
+Time: 334.273 s
+------------------------------
+------------------------------
+Generation 440:
+-> Best fitness: 55
+-> The average fitness: 54.24
+-> Cost of best solution: 74
+Time: 334.995 s
+------------------------------
+------------------------------
+Generation 441:
+-> Best fitness: 55
+-> The average fitness: 54.25
+-> Cost of best solution: 74
+Time: 335.864 s
+------------------------------
+------------------------------
+Generation 442:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 336.66 s
+------------------------------
+------------------------------
+Generation 443:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 337.421 s
+------------------------------
+------------------------------
+Generation 444:
+-> Best fitness: 55
+-> The average fitness: 53.22
+-> Cost of best solution: 74
+Time: 338.158 s
+------------------------------
+------------------------------
+Generation 445:
+-> Best fitness: 55
+-> The average fitness: 53.04
+-> Cost of best solution: 74
+Time: 338.834 s
+------------------------------
+------------------------------
+Generation 446:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 339.553 s
+------------------------------
+------------------------------
+Generation 447:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 340.346 s
+------------------------------
+------------------------------
+Generation 448:
+-> Best fitness: 55
+-> The average fitness: 54.16
+-> Cost of best solution: 74
+Time: 341.17 s
+------------------------------
+------------------------------
+Generation 449:
+-> Best fitness: 55
+-> The average fitness: 54.28
+-> Cost of best solution: 74
+Time: 341.946 s
+------------------------------
+------------------------------
+Generation 450:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 342.813 s
+------------------------------
+------------------------------
+Generation 451:
+-> Best fitness: 55
+-> The average fitness: 54.15
+-> Cost of best solution: 74
+Time: 343.613 s
+------------------------------
+------------------------------
+Generation 452:
+-> Best fitness: 55
+-> The average fitness: 54.48
+-> Cost of best solution: 74
+Time: 344.395 s
+------------------------------
+------------------------------
+Generation 453:
+-> Best fitness: 55
+-> The average fitness: 54.23
+-> Cost of best solution: 74
+Time: 345.164 s
+------------------------------
+------------------------------
+Generation 454:
+-> Best fitness: 55
+-> The average fitness: 54.06
+-> Cost of best solution: 74
+Time: 345.941 s
+------------------------------
+------------------------------
+Generation 455:
+-> Best fitness: 55
+-> The average fitness: 53.76
+-> Cost of best solution: 74
+Time: 346.657 s
+------------------------------
+------------------------------
+Generation 456:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 347.442 s
+------------------------------
+------------------------------
+Generation 457:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 348.278 s
+------------------------------
+------------------------------
+Generation 458:
+-> Best fitness: 55
+-> The average fitness: 53.86
+-> Cost of best solution: 74
+Time: 349.101 s
+------------------------------
+------------------------------
+Generation 459:
+-> Best fitness: 55
+-> The average fitness: 54.04
+-> Cost of best solution: 74
+Time: 349.881 s
+------------------------------
+------------------------------
+Generation 460:
+-> Best fitness: 55
+-> The average fitness: 54.19
+-> Cost of best solution: 74
+Time: 350.649 s
+------------------------------
+------------------------------
+Generation 461:
+-> Best fitness: 55
+-> The average fitness: 54.02
+-> Cost of best solution: 74
+Time: 351.429 s
+------------------------------
+------------------------------
+Generation 462:
+-> Best fitness: 55
+-> The average fitness: 54.05
+-> Cost of best solution: 74
+Time: 352.253 s
+------------------------------
+------------------------------
+Generation 463:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 352.97 s
+------------------------------
+------------------------------
+Generation 464:
+-> Best fitness: 55
+-> The average fitness: 53.61
+-> Cost of best solution: 74
+Time: 353.737 s
+------------------------------
+------------------------------
+Generation 465:
+-> Best fitness: 55
+-> The average fitness: 53.09
+-> Cost of best solution: 74
+Time: 354.432 s
+------------------------------
+------------------------------
+Generation 466:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 355.249 s
+------------------------------
+------------------------------
+Generation 467:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 356.042 s
+------------------------------
+------------------------------
+Generation 468:
+-> Best fitness: 55
+-> The average fitness: 53.19
+-> Cost of best solution: 74
+Time: 356.752 s
+------------------------------
+------------------------------
+Generation 469:
+-> Best fitness: 55
+-> The average fitness: 53.56
+-> Cost of best solution: 74
+Time: 357.54 s
+------------------------------
+------------------------------
+Generation 470:
+-> Best fitness: 55
+-> The average fitness: 53.99
+-> Cost of best solution: 74
+Time: 358.307 s
+------------------------------
+------------------------------
+Generation 471:
+-> Best fitness: 55
+-> The average fitness: 54.01
+-> Cost of best solution: 74
+Time: 359.04 s
+------------------------------
+------------------------------
+Generation 472:
+-> Best fitness: 55
+-> The average fitness: 53.71
+-> Cost of best solution: 74
+Time: 359.865 s
+------------------------------
+------------------------------
+Generation 473:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 360.631 s
+------------------------------
+------------------------------
+Generation 474:
+-> Best fitness: 55
+-> The average fitness: 53.15
+-> Cost of best solution: 74
+Time: 361.403 s
+------------------------------
+------------------------------
+Generation 475:
+-> Best fitness: 55
+-> The average fitness: 53.44
+-> Cost of best solution: 74
+Time: 362.192 s
+------------------------------
+------------------------------
+Generation 476:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 362.895 s
+------------------------------
+------------------------------
+Generation 477:
+-> Best fitness: 55
+-> The average fitness: 53.16
+-> Cost of best solution: 74
+Time: 363.699 s
+------------------------------
+------------------------------
+Generation 478:
+-> Best fitness: 55
+-> The average fitness: 53.29
+-> Cost of best solution: 74
+Time: 364.442 s
+------------------------------
+------------------------------
+Generation 479:
+-> Best fitness: 55
+-> The average fitness: 53.87
+-> Cost of best solution: 74
+Time: 365.207 s
+------------------------------
+------------------------------
+Generation 480:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 365.977 s
+------------------------------
+------------------------------
+Generation 481:
+-> Best fitness: 55
+-> The average fitness: 53.96
+-> Cost of best solution: 74
+Time: 366.712 s
+------------------------------
+------------------------------
+Generation 482:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 367.523 s
+------------------------------
+------------------------------
+Generation 483:
+-> Best fitness: 55
+-> The average fitness: 53.16
+-> Cost of best solution: 74
+Time: 368.229 s
+------------------------------
+------------------------------
+Generation 484:
+-> Best fitness: 55
+-> The average fitness: 53.05
+-> Cost of best solution: 74
+Time: 368.94 s
+------------------------------
+------------------------------
+Generation 485:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 369.636 s
+------------------------------
+------------------------------
+Generation 486:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 370.447 s
+------------------------------
+------------------------------
+Generation 487:
+-> Best fitness: 55
+-> The average fitness: 53.11
+-> Cost of best solution: 74
+Time: 371.226 s
+------------------------------
+------------------------------
+Generation 488:
+-> Best fitness: 55
+-> The average fitness: 53.67
+-> Cost of best solution: 74
+Time: 371.977 s
+------------------------------
+------------------------------
+Generation 489:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 372.709 s
+------------------------------
+------------------------------
+Generation 490:
+-> Best fitness: 55
+-> The average fitness: 53.82
+-> Cost of best solution: 74
+Time: 373.469 s
+------------------------------
+------------------------------
+Generation 491:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 374.163 s
+------------------------------
+------------------------------
+Generation 492:
+-> Best fitness: 55
+-> The average fitness: 53.78
+-> Cost of best solution: 74
+Time: 374.858 s
+------------------------------
+------------------------------
+Generation 493:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 375.615 s
+------------------------------
+------------------------------
+Generation 494:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 376.326 s
+------------------------------
+------------------------------
+Generation 495:
+-> Best fitness: 55
+-> The average fitness: 52.83
+-> Cost of best solution: 74
+Time: 377.056 s
+------------------------------
+------------------------------
+Generation 496:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 377.808 s
+------------------------------
+------------------------------
+Generation 497:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 378.571 s
+------------------------------
+------------------------------
+Generation 498:
+-> Best fitness: 55
+-> The average fitness: 53.98
+-> Cost of best solution: 74
+Time: 379.367 s
+------------------------------
+------------------------------
+Generation 499:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 380.15 s
+------------------------------
+------------------------------
+Generation 500:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 380.874 s
+------------------------------
+------------------------------
+Generation 501:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 381.667 s
+------------------------------
+------------------------------
+Generation 502:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 382.392 s
+------------------------------
+------------------------------
+Generation 503:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 383.292 s
+------------------------------
+------------------------------
+Generation 504:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 384.017 s
+------------------------------
+------------------------------
+Generation 505:
+-> Best fitness: 55
+-> The average fitness: 53.84
+-> Cost of best solution: 74
+Time: 384.758 s
+------------------------------
+------------------------------
+Generation 506:
+-> Best fitness: 55
+-> The average fitness: 53.61
+-> Cost of best solution: 74
+Time: 385.437 s
+------------------------------
+------------------------------
+Generation 507:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 386.335 s
+------------------------------
+------------------------------
+Generation 508:
+-> Best fitness: 55
+-> The average fitness: 53.82
+-> Cost of best solution: 74
+Time: 387.047 s
+------------------------------
+------------------------------
+Generation 509:
+-> Best fitness: 55
+-> The average fitness: 53.51
+-> Cost of best solution: 74
+Time: 387.794 s
+------------------------------
+------------------------------
+Generation 510:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 388.586 s
+------------------------------
+------------------------------
+Generation 511:
+-> Best fitness: 55
+-> The average fitness: 53.34
+-> Cost of best solution: 74
+Time: 389.352 s
+------------------------------
+------------------------------
+Generation 512:
+-> Best fitness: 55
+-> The average fitness: 53.81
+-> Cost of best solution: 74
+Time: 390.125 s
+------------------------------
+------------------------------
+Generation 513:
+-> Best fitness: 55
+-> The average fitness: 53.36
+-> Cost of best solution: 74
+Time: 390.862 s
+------------------------------
+------------------------------
+Generation 514:
+-> Best fitness: 55
+-> The average fitness: 52.96
+-> Cost of best solution: 74
+Time: 391.677 s
+------------------------------
+------------------------------
+Generation 515:
+-> Best fitness: 55
+-> The average fitness: 52.33
+-> Cost of best solution: 74
+Time: 392.426 s
+------------------------------
+------------------------------
+Generation 516:
+-> Best fitness: 55
+-> The average fitness: 52.77
+-> Cost of best solution: 74
+Time: 393.182 s
+------------------------------
+------------------------------
+Generation 517:
+-> Best fitness: 55
+-> The average fitness: 52.83
+-> Cost of best solution: 74
+Time: 393.882 s
+------------------------------
+------------------------------
+Generation 518:
+-> Best fitness: 55
+-> The average fitness: 52.64
+-> Cost of best solution: 74
+Time: 394.567 s
+------------------------------
+------------------------------
+Generation 519:
+-> Best fitness: 55
+-> The average fitness: 52.26
+-> Cost of best solution: 74
+Time: 395.477 s
+------------------------------
+------------------------------
+Generation 520:
+-> Best fitness: 55
+-> The average fitness: 52.53
+-> Cost of best solution: 74
+Time: 396.188 s
+------------------------------
+------------------------------
+Generation 521:
+-> Best fitness: 55
+-> The average fitness: 52.51
+-> Cost of best solution: 74
+Time: 396.859 s
+------------------------------
+------------------------------
+Generation 522:
+-> Best fitness: 55
+-> The average fitness: 52.72
+-> Cost of best solution: 74
+Time: 397.592 s
+------------------------------
+------------------------------
+Generation 523:
+-> Best fitness: 55
+-> The average fitness: 51.53
+-> Cost of best solution: 74
+Time: 398.293 s
+------------------------------
+------------------------------
+Generation 524:
+-> Best fitness: 55
+-> The average fitness: 51.65
+-> Cost of best solution: 74
+Time: 399.08 s
+------------------------------
+------------------------------
+Generation 525:
+-> Best fitness: 55
+-> The average fitness: 52.05
+-> Cost of best solution: 74
+Time: 399.775 s
+------------------------------
+------------------------------
+Generation 526:
+-> Best fitness: 55
+-> The average fitness: 52.51
+-> Cost of best solution: 74
+Time: 400.529 s
+------------------------------
+------------------------------
+Generation 527:
+-> Best fitness: 55
+-> The average fitness: 52.16
+-> Cost of best solution: 74
+Time: 401.322 s
+------------------------------
+------------------------------
+Generation 528:
+-> Best fitness: 55
+-> The average fitness: 51.84
+-> Cost of best solution: 74
+Time: 402.073 s
+------------------------------
+------------------------------
+Generation 529:
+-> Best fitness: 55
+-> The average fitness: 51.57
+-> Cost of best solution: 74
+Time: 402.76 s
+------------------------------
+------------------------------
+Generation 530:
+-> Best fitness: 55
+-> The average fitness: 52.13
+-> Cost of best solution: 74
+Time: 403.58 s
+------------------------------
+------------------------------
+Generation 531:
+-> Best fitness: 55
+-> The average fitness: 52.69
+-> Cost of best solution: 74
+Time: 404.291 s
+------------------------------
+------------------------------
+Generation 532:
+-> Best fitness: 55
+-> The average fitness: 52.81
+-> Cost of best solution: 74
+Time: 405.056 s
+------------------------------
+------------------------------
+Generation 533:
+-> Best fitness: 55
+-> The average fitness: 52.68
+-> Cost of best solution: 74
+Time: 405.845 s
+------------------------------
+------------------------------
+Generation 534:
+-> Best fitness: 55
+-> The average fitness: 53.26
+-> Cost of best solution: 74
+Time: 406.655 s
+------------------------------
+------------------------------
+Generation 535:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 407.494 s
+------------------------------
+------------------------------
+Generation 536:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 408.221 s
+------------------------------
+------------------------------
+Generation 537:
+-> Best fitness: 55
+-> The average fitness: 53.67
+-> Cost of best solution: 74
+Time: 408.927 s
+------------------------------
+------------------------------
+Generation 538:
+-> Best fitness: 55
+-> The average fitness: 53.91
+-> Cost of best solution: 74
+Time: 409.678 s
+------------------------------
+------------------------------
+Generation 539:
+-> Best fitness: 55
+-> The average fitness: 53.55
+-> Cost of best solution: 74
+Time: 410.461 s
+------------------------------
+------------------------------
+Generation 540:
+-> Best fitness: 55
+-> The average fitness: 53.55
+-> Cost of best solution: 74
+Time: 411.191 s
+------------------------------
+------------------------------
+Generation 541:
+-> Best fitness: 55
+-> The average fitness: 53.56
+-> Cost of best solution: 74
+Time: 411.913 s
+------------------------------
+------------------------------
+Generation 542:
+-> Best fitness: 55
+-> The average fitness: 53.32
+-> Cost of best solution: 74
+Time: 412.625 s
+------------------------------
+------------------------------
+Generation 543:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 413.38 s
+------------------------------
+------------------------------
+Generation 544:
+-> Best fitness: 55
+-> The average fitness: 53.08
+-> Cost of best solution: 74
+Time: 414.154 s
+------------------------------
+------------------------------
+Generation 545:
+-> Best fitness: 55
+-> The average fitness: 53.63
+-> Cost of best solution: 74
+Time: 414.91 s
+------------------------------
+------------------------------
+Generation 546:
+-> Best fitness: 55
+-> The average fitness: 53.71
+-> Cost of best solution: 74
+Time: 415.609 s
+------------------------------
+------------------------------
+Generation 547:
+-> Best fitness: 55
+-> The average fitness: 53.31
+-> Cost of best solution: 74
+Time: 416.351 s
+------------------------------
+------------------------------
+Generation 548:
+-> Best fitness: 55
+-> The average fitness: 53.29
+-> Cost of best solution: 74
+Time: 417.138 s
+------------------------------
+------------------------------
+Generation 549:
+-> Best fitness: 55
+-> The average fitness: 52.82
+-> Cost of best solution: 74
+Time: 417.997 s
+------------------------------
+------------------------------
+Generation 550:
+-> Best fitness: 55
+-> The average fitness: 52.79
+-> Cost of best solution: 74
+Time: 418.744 s
+------------------------------
+------------------------------
+Generation 551:
+-> Best fitness: 55
+-> The average fitness: 53.27
+-> Cost of best solution: 74
+Time: 419.421 s
+------------------------------
+------------------------------
+Generation 552:
+-> Best fitness: 55
+-> The average fitness: 53.12
+-> Cost of best solution: 74
+Time: 420.127 s
+------------------------------
+------------------------------
+Generation 553:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 420.827 s
+------------------------------
+------------------------------
+Generation 554:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 421.71 s
+------------------------------
+------------------------------
+Generation 555:
+-> Best fitness: 55
+-> The average fitness: 53.27
+-> Cost of best solution: 74
+Time: 422.461 s
+------------------------------
+------------------------------
+Generation 556:
+-> Best fitness: 55
+-> The average fitness: 53.4
+-> Cost of best solution: 74
+Time: 423.15 s
+------------------------------
+------------------------------
+Generation 557:
+-> Best fitness: 55
+-> The average fitness: 53.43
+-> Cost of best solution: 74
+Time: 423.944 s
+------------------------------
+------------------------------
+Generation 558:
+-> Best fitness: 55
+-> The average fitness: 53.26
+-> Cost of best solution: 74
+Time: 424.718 s
+------------------------------
+------------------------------
+Generation 559:
+-> Best fitness: 55
+-> The average fitness: 53.36
+-> Cost of best solution: 74
+Time: 425.463 s
+------------------------------
+------------------------------
+Generation 560:
+-> Best fitness: 55
+-> The average fitness: 53.07
+-> Cost of best solution: 74
+Time: 426.19 s
+------------------------------
+------------------------------
+Generation 561:
+-> Best fitness: 55
+-> The average fitness: 53.25
+-> Cost of best solution: 74
+Time: 426.907 s
+------------------------------
+------------------------------
+Generation 562:
+-> Best fitness: 55
+-> The average fitness: 53.05
+-> Cost of best solution: 74
+Time: 427.691 s
+------------------------------
+------------------------------
+Generation 563:
+-> Best fitness: 55
+-> The average fitness: 53.2
+-> Cost of best solution: 74
+Time: 428.542 s
+------------------------------
+------------------------------
+Generation 564:
+-> Best fitness: 55
+-> The average fitness: 53.32
+-> Cost of best solution: 74
+Time: 429.272 s
+------------------------------
+------------------------------
+Generation 565:
+-> Best fitness: 55
+-> The average fitness: 53.51
+-> Cost of best solution: 74
+Time: 429.979 s
+------------------------------
+------------------------------
+Generation 566:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 430.683 s
+------------------------------
+------------------------------
+Generation 567:
+-> Best fitness: 55
+-> The average fitness: 53.58
+-> Cost of best solution: 74
+Time: 431.426 s
+------------------------------
+------------------------------
+Generation 568:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 432.254 s
+------------------------------
+------------------------------
+Generation 569:
+-> Best fitness: 55
+-> The average fitness: 53.82
+-> Cost of best solution: 74
+Time: 433.017 s
+------------------------------
+------------------------------
+Generation 570:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 433.745 s
+------------------------------
+------------------------------
+Generation 571:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 434.521 s
+------------------------------
+------------------------------
+Generation 572:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 435.305 s
+------------------------------
+------------------------------
+Generation 573:
+-> Best fitness: 55
+-> The average fitness: 53.44
+-> Cost of best solution: 74
+Time: 436.068 s
+------------------------------
+------------------------------
+Generation 574:
+-> Best fitness: 55
+-> The average fitness: 53.15
+-> Cost of best solution: 74
+Time: 436.93 s
+------------------------------
+------------------------------
+Generation 575:
+-> Best fitness: 55
+-> The average fitness: 53.78
+-> Cost of best solution: 74
+Time: 437.723 s
+------------------------------
+------------------------------
+Generation 576:
+-> Best fitness: 55
+-> The average fitness: 53.31
+-> Cost of best solution: 74
+Time: 438.441 s
+------------------------------
+------------------------------
+Generation 577:
+-> Best fitness: 55
+-> The average fitness: 52.83
+-> Cost of best solution: 74
+Time: 439.169 s
+------------------------------
+------------------------------
+Generation 578:
+-> Best fitness: 55
+-> The average fitness: 53.31
+-> Cost of best solution: 74
+Time: 440.02 s
+------------------------------
+------------------------------
+Generation 579:
+-> Best fitness: 55
+-> The average fitness: 53.13
+-> Cost of best solution: 74
+Time: 440.807 s
+------------------------------
+------------------------------
+Generation 580:
+-> Best fitness: 55
+-> The average fitness: 52.92
+-> Cost of best solution: 74
+Time: 441.578 s
+------------------------------
+------------------------------
+Generation 581:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 442.311 s
+------------------------------
+------------------------------
+Generation 582:
+-> Best fitness: 55
+-> The average fitness: 53.63
+-> Cost of best solution: 74
+Time: 443.001 s
+------------------------------
+------------------------------
+Generation 583:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 443.782 s
+------------------------------
+------------------------------
+Generation 584:
+-> Best fitness: 55
+-> The average fitness: 53.25
+-> Cost of best solution: 74
+Time: 444.561 s
+------------------------------
+------------------------------
+Generation 585:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 445.291 s
+------------------------------
+------------------------------
+Generation 586:
+-> Best fitness: 55
+-> The average fitness: 53.87
+-> Cost of best solution: 74
+Time: 446.048 s
+------------------------------
+------------------------------
+Generation 587:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 446.848 s
+------------------------------
+------------------------------
+Generation 588:
+-> Best fitness: 55
+-> The average fitness: 53.45
+-> Cost of best solution: 74
+Time: 447.634 s
+------------------------------
+------------------------------
+Generation 589:
+-> Best fitness: 55
+-> The average fitness: 53.37
+-> Cost of best solution: 74
+Time: 448.414 s
+------------------------------
+------------------------------
+Generation 590:
+-> Best fitness: 55
+-> The average fitness: 53.27
+-> Cost of best solution: 74
+Time: 449.165 s
+------------------------------
+------------------------------
+Generation 591:
+-> Best fitness: 55
+-> The average fitness: 53.56
+-> Cost of best solution: 74
+Time: 449.94 s
+------------------------------
+------------------------------
+Generation 592:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 450.693 s
+------------------------------
+------------------------------
+Generation 593:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 451.533 s
+------------------------------
+------------------------------
+Generation 594:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 452.255 s
+------------------------------
+------------------------------
+Generation 595:
+-> Best fitness: 55
+-> The average fitness: 54.03
+-> Cost of best solution: 74
+Time: 453.05 s
+------------------------------
+------------------------------
+Generation 596:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 453.88 s
+------------------------------
+------------------------------
+Generation 597:
+-> Best fitness: 55
+-> The average fitness: 53.55
+-> Cost of best solution: 74
+Time: 454.622 s
+------------------------------
+------------------------------
+Generation 598:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 455.351 s
+------------------------------
+------------------------------
+Generation 599:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 456.268 s
+------------------------------
+------------------------------
+Generation 600:
+-> Best fitness: 55
+-> The average fitness: 53.34
+-> Cost of best solution: 74
+Time: 456.995 s
+------------------------------
+------------------------------
+Generation 601:
+-> Best fitness: 55
+-> The average fitness: 53.37
+-> Cost of best solution: 74
+Time: 457.75 s
+------------------------------
+------------------------------
+Generation 602:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 458.458 s
+------------------------------
+------------------------------
+Generation 603:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 459.23 s
+------------------------------
+------------------------------
+Generation 604:
+-> Best fitness: 55
+-> The average fitness: 53.35
+-> Cost of best solution: 74
+Time: 459.953 s
+------------------------------
+------------------------------
+Generation 605:
+-> Best fitness: 55
+-> The average fitness: 52.72
+-> Cost of best solution: 74
+Time: 460.722 s
+------------------------------
+------------------------------
+Generation 606:
+-> Best fitness: 55
+-> The average fitness: 52.94
+-> Cost of best solution: 74
+Time: 461.399 s
+------------------------------
+------------------------------
+Generation 607:
+-> Best fitness: 55
+-> The average fitness: 53.18
+-> Cost of best solution: 74
+Time: 462.186 s
+------------------------------
+------------------------------
+Generation 608:
+-> Best fitness: 55
+-> The average fitness: 52.83
+-> Cost of best solution: 74
+Time: 462.999 s
+------------------------------
+------------------------------
+Generation 609:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 463.855 s
+------------------------------
+------------------------------
+Generation 610:
+-> Best fitness: 55
+-> The average fitness: 52.95
+-> Cost of best solution: 74
+Time: 464.601 s
+------------------------------
+------------------------------
+Generation 611:
+-> Best fitness: 55
+-> The average fitness: 52.7
+-> Cost of best solution: 74
+Time: 465.303 s
+------------------------------
+------------------------------
+Generation 612:
+-> Best fitness: 55
+-> The average fitness: 52.34
+-> Cost of best solution: 74
+Time: 466.06 s
+------------------------------
+------------------------------
+Generation 613:
+-> Best fitness: 55
+-> The average fitness: 52.92
+-> Cost of best solution: 74
+Time: 466.802 s
+------------------------------
+------------------------------
+Generation 614:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 467.619 s
+------------------------------
+------------------------------
+Generation 615:
+-> Best fitness: 55
+-> The average fitness: 53.18
+-> Cost of best solution: 74
+Time: 468.362 s
+------------------------------
+------------------------------
+Generation 616:
+-> Best fitness: 55
+-> The average fitness: 52.73
+-> Cost of best solution: 74
+Time: 469.11 s
+------------------------------
+------------------------------
+Generation 617:
+-> Best fitness: 55
+-> The average fitness: 53.2
+-> Cost of best solution: 74
+Time: 469.874 s
+------------------------------
+------------------------------
+Generation 618:
+-> Best fitness: 55
+-> The average fitness: 53.36
+-> Cost of best solution: 74
+Time: 470.64 s
+------------------------------
+------------------------------
+Generation 619:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 471.332 s
+------------------------------
+------------------------------
+Generation 620:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 472.09 s
+------------------------------
+------------------------------
+Generation 621:
+-> Best fitness: 55
+-> The average fitness: 53.45
+-> Cost of best solution: 74
+Time: 472.802 s
+------------------------------
+------------------------------
+Generation 622:
+-> Best fitness: 55
+-> The average fitness: 53.71
+-> Cost of best solution: 74
+Time: 473.497 s
+------------------------------
+------------------------------
+Generation 623:
+-> Best fitness: 55
+-> The average fitness: 53.77
+-> Cost of best solution: 74
+Time: 474.202 s
+------------------------------
+------------------------------
+Generation 624:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 474.948 s
+------------------------------
+------------------------------
+Generation 625:
+-> Best fitness: 55
+-> The average fitness: 53.61
+-> Cost of best solution: 74
+Time: 475.643 s
+------------------------------
+------------------------------
+Generation 626:
+-> Best fitness: 55
+-> The average fitness: 53.93
+-> Cost of best solution: 74
+Time: 476.368 s
+------------------------------
+------------------------------
+Generation 627:
+-> Best fitness: 55
+-> The average fitness: 53.05
+-> Cost of best solution: 74
+Time: 477.096 s
+------------------------------
+------------------------------
+Generation 628:
+-> Best fitness: 55
+-> The average fitness: 52.45
+-> Cost of best solution: 74
+Time: 477.82 s
+------------------------------
+------------------------------
+Generation 629:
+-> Best fitness: 55
+-> The average fitness: 52.52
+-> Cost of best solution: 74
+Time: 478.547 s
+------------------------------
+------------------------------
+Generation 630:
+-> Best fitness: 55
+-> The average fitness: 53.43
+-> Cost of best solution: 74
+Time: 479.322 s
+------------------------------
+------------------------------
+Generation 631:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 480.059 s
+------------------------------
+------------------------------
+Generation 632:
+-> Best fitness: 55
+-> The average fitness: 53.98
+-> Cost of best solution: 74
+Time: 480.771 s
+------------------------------
+------------------------------
+Generation 633:
+-> Best fitness: 55
+-> The average fitness: 53.22
+-> Cost of best solution: 74
+Time: 481.553 s
+------------------------------
+------------------------------
+Generation 634:
+-> Best fitness: 55
+-> The average fitness: 52.74
+-> Cost of best solution: 74
+Time: 482.305 s
+------------------------------
+------------------------------
+Generation 635:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 482.997 s
+------------------------------
+------------------------------
+Generation 636:
+-> Best fitness: 55
+-> The average fitness: 53.21
+-> Cost of best solution: 74
+Time: 483.713 s
+------------------------------
+------------------------------
+Generation 637:
+-> Best fitness: 55
+-> The average fitness: 53.4
+-> Cost of best solution: 74
+Time: 484.452 s
+------------------------------
+------------------------------
+Generation 638:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 485.165 s
+------------------------------
+------------------------------
+Generation 639:
+-> Best fitness: 55
+-> The average fitness: 52.83
+-> Cost of best solution: 74
+Time: 485.957 s
+------------------------------
+------------------------------
+Generation 640:
+-> Best fitness: 55
+-> The average fitness: 53.37
+-> Cost of best solution: 74
+Time: 486.711 s
+------------------------------
+------------------------------
+Generation 641:
+-> Best fitness: 55
+-> The average fitness: 53.76
+-> Cost of best solution: 74
+Time: 487.576 s
+------------------------------
+------------------------------
+Generation 642:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 488.385 s
+------------------------------
+------------------------------
+Generation 643:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 489.144 s
+------------------------------
+------------------------------
+Generation 644:
+-> Best fitness: 55
+-> The average fitness: 53.79
+-> Cost of best solution: 74
+Time: 489.905 s
+------------------------------
+------------------------------
+Generation 645:
+-> Best fitness: 55
+-> The average fitness: 53.06
+-> Cost of best solution: 74
+Time: 490.677 s
+------------------------------
+------------------------------
+Generation 646:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 491.463 s
+------------------------------
+------------------------------
+Generation 647:
+-> Best fitness: 55
+-> The average fitness: 53.35
+-> Cost of best solution: 74
+Time: 492.227 s
+------------------------------
+------------------------------
+Generation 648:
+-> Best fitness: 55
+-> The average fitness: 53.32
+-> Cost of best solution: 74
+Time: 492.994 s
+------------------------------
+------------------------------
+Generation 649:
+-> Best fitness: 55
+-> The average fitness: 53.25
+-> Cost of best solution: 74
+Time: 493.736 s
+------------------------------
+------------------------------
+Generation 650:
+-> Best fitness: 55
+-> The average fitness: 53.45
+-> Cost of best solution: 74
+Time: 494.473 s
+------------------------------
+------------------------------
+Generation 651:
+-> Best fitness: 55
+-> The average fitness: 54.01
+-> Cost of best solution: 74
+Time: 495.275 s
+------------------------------
+------------------------------
+Generation 652:
+-> Best fitness: 55
+-> The average fitness: 53.77
+-> Cost of best solution: 74
+Time: 495.996 s
+------------------------------
+------------------------------
+Generation 653:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 496.719 s
+------------------------------
+------------------------------
+Generation 654:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 497.423 s
+------------------------------
+------------------------------
+Generation 655:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 498.154 s
+------------------------------
+------------------------------
+Generation 656:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 498.846 s
+------------------------------
+------------------------------
+Generation 657:
+-> Best fitness: 55
+-> The average fitness: 53.12
+-> Cost of best solution: 74
+Time: 499.555 s
+------------------------------
+------------------------------
+Generation 658:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 500.306 s
+------------------------------
+------------------------------
+Generation 659:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 501.146 s
+------------------------------
+------------------------------
+Generation 660:
+-> Best fitness: 55
+-> The average fitness: 53.18
+-> Cost of best solution: 74
+Time: 501.883 s
+------------------------------
+------------------------------
+Generation 661:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 502.616 s
+------------------------------
+------------------------------
+Generation 662:
+-> Best fitness: 55
+-> The average fitness: 53.51
+-> Cost of best solution: 74
+Time: 503.398 s
+------------------------------
+------------------------------
+Generation 663:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 504.134 s
+------------------------------
+------------------------------
+Generation 664:
+-> Best fitness: 55
+-> The average fitness: 54.02
+-> Cost of best solution: 74
+Time: 504.865 s
+------------------------------
+------------------------------
+Generation 665:
+-> Best fitness: 55
+-> The average fitness: 54.07
+-> Cost of best solution: 74
+Time: 505.609 s
+------------------------------
+------------------------------
+Generation 666:
+-> Best fitness: 55
+-> The average fitness: 54.29
+-> Cost of best solution: 74
+Time: 506.333 s
+------------------------------
+------------------------------
+Generation 667:
+-> Best fitness: 55
+-> The average fitness: 53.86
+-> Cost of best solution: 74
+Time: 507.018 s
+------------------------------
+------------------------------
+Generation 668:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 507.854 s
+------------------------------
+------------------------------
+Generation 669:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 508.527 s
+------------------------------
+------------------------------
+Generation 670:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 509.282 s
+------------------------------
+------------------------------
+Generation 671:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 510.023 s
+------------------------------
+------------------------------
+Generation 672:
+-> Best fitness: 55
+-> The average fitness: 53.55
+-> Cost of best solution: 74
+Time: 510.737 s
+------------------------------
+------------------------------
+Generation 673:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 511.495 s
+------------------------------
+------------------------------
+Generation 674:
+-> Best fitness: 55
+-> The average fitness: 52.73
+-> Cost of best solution: 74
+Time: 512.22 s
+------------------------------
+------------------------------
+Generation 675:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 512.977 s
+------------------------------
+------------------------------
+Generation 676:
+-> Best fitness: 55
+-> The average fitness: 53.39
+-> Cost of best solution: 74
+Time: 513.71 s
+------------------------------
+------------------------------
+Generation 677:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 514.439 s
+------------------------------
+------------------------------
+Generation 678:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 515.185 s
+------------------------------
+------------------------------
+Generation 679:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 515.992 s
+------------------------------
+------------------------------
+Generation 680:
+-> Best fitness: 55
+-> The average fitness: 54.11
+-> Cost of best solution: 74
+Time: 516.695 s
+------------------------------
+------------------------------
+Generation 681:
+-> Best fitness: 55
+-> The average fitness: 54.29
+-> Cost of best solution: 74
+Time: 517.405 s
+------------------------------
+------------------------------
+Generation 682:
+-> Best fitness: 55
+-> The average fitness: 54.17
+-> Cost of best solution: 74
+Time: 518.166 s
+------------------------------
+------------------------------
+Generation 683:
+-> Best fitness: 55
+-> The average fitness: 53.99
+-> Cost of best solution: 74
+Time: 518.897 s
+------------------------------
+------------------------------
+Generation 684:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 519.615 s
+------------------------------
+------------------------------
+Generation 685:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 520.408 s
+------------------------------
+------------------------------
+Generation 686:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 521.107 s
+------------------------------
+------------------------------
+Generation 687:
+-> Best fitness: 55
+-> The average fitness: 53.77
+-> Cost of best solution: 74
+Time: 521.832 s
+------------------------------
+------------------------------
+Generation 688:
+-> Best fitness: 55
+-> The average fitness: 53.56
+-> Cost of best solution: 74
+Time: 522.634 s
+------------------------------
+------------------------------
+Generation 689:
+-> Best fitness: 55
+-> The average fitness: 53.88
+-> Cost of best solution: 74
+Time: 523.331 s
+------------------------------
+------------------------------
+Generation 690:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 524.121 s
+------------------------------
+------------------------------
+Generation 691:
+-> Best fitness: 55
+-> The average fitness: 54.01
+-> Cost of best solution: 74
+Time: 524.913 s
+------------------------------
+------------------------------
+Generation 692:
+-> Best fitness: 55
+-> The average fitness: 54.24
+-> Cost of best solution: 74
+Time: 525.628 s
+------------------------------
+------------------------------
+Generation 693:
+-> Best fitness: 55
+-> The average fitness: 54.21
+-> Cost of best solution: 74
+Time: 526.353 s
+------------------------------
+------------------------------
+Generation 694:
+-> Best fitness: 55
+-> The average fitness: 54.25
+-> Cost of best solution: 74
+Time: 527.188 s
+------------------------------
+------------------------------
+Generation 695:
+-> Best fitness: 55
+-> The average fitness: 54.08
+-> Cost of best solution: 74
+Time: 527.963 s
+------------------------------
+------------------------------
+Generation 696:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 528.648 s
+------------------------------
+------------------------------
+Generation 697:
+-> Best fitness: 55
+-> The average fitness: 53.55
+-> Cost of best solution: 74
+Time: 529.423 s
+------------------------------
+------------------------------
+Generation 698:
+-> Best fitness: 55
+-> The average fitness: 54.14
+-> Cost of best solution: 74
+Time: 530.199 s
+------------------------------
+------------------------------
+Generation 699:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 530.944 s
+------------------------------
+------------------------------
+Generation 700:
+-> Best fitness: 55
+-> The average fitness: 54.18
+-> Cost of best solution: 74
+Time: 531.677 s
+------------------------------
+------------------------------
+Generation 701:
+-> Best fitness: 55
+-> The average fitness: 54.15
+-> Cost of best solution: 74
+Time: 532.494 s
+------------------------------
+------------------------------
+Generation 702:
+-> Best fitness: 55
+-> The average fitness: 54.24
+-> Cost of best solution: 74
+Time: 533.303 s
+------------------------------
+------------------------------
+Generation 703:
+-> Best fitness: 55
+-> The average fitness: 53.94
+-> Cost of best solution: 74
+Time: 534.121 s
+------------------------------
+------------------------------
+Generation 704:
+-> Best fitness: 55
+-> The average fitness: 54.22
+-> Cost of best solution: 74
+Time: 534.926 s
+------------------------------
+------------------------------
+Generation 705:
+-> Best fitness: 55
+-> The average fitness: 54.08
+-> Cost of best solution: 74
+Time: 535.674 s
+------------------------------
+------------------------------
+Generation 706:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 536.455 s
+------------------------------
+------------------------------
+Generation 707:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 537.17 s
+------------------------------
+------------------------------
+Generation 708:
+-> Best fitness: 55
+-> The average fitness: 52.8
+-> Cost of best solution: 74
+Time: 537.947 s
+------------------------------
+------------------------------
+Generation 709:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 538.644 s
+------------------------------
+------------------------------
+Generation 710:
+-> Best fitness: 55
+-> The average fitness: 53.38
+-> Cost of best solution: 74
+Time: 539.421 s
+------------------------------
+------------------------------
+Generation 711:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 540.132 s
+------------------------------
+------------------------------
+Generation 712:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 540.866 s
+------------------------------
+------------------------------
+Generation 713:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 541.665 s
+------------------------------
+------------------------------
+Generation 714:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 542.501 s
+------------------------------
+------------------------------
+Generation 715:
+-> Best fitness: 55
+-> The average fitness: 53.48
+-> Cost of best solution: 74
+Time: 543.285 s
+------------------------------
+------------------------------
+Generation 716:
+-> Best fitness: 55
+-> The average fitness: 53.34
+-> Cost of best solution: 74
+Time: 544.01 s
+------------------------------
+------------------------------
+Generation 717:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 544.867 s
+------------------------------
+------------------------------
+Generation 718:
+-> Best fitness: 55
+-> The average fitness: 53.06
+-> Cost of best solution: 74
+Time: 545.574 s
+------------------------------
+------------------------------
+Generation 719:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 546.271 s
+------------------------------
+------------------------------
+Generation 720:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 546.972 s
+------------------------------
+------------------------------
+Generation 721:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 547.793 s
+------------------------------
+------------------------------
+Generation 722:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 548.578 s
+------------------------------
+------------------------------
+Generation 723:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 549.349 s
+------------------------------
+------------------------------
+Generation 724:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 550.094 s
+------------------------------
+------------------------------
+Generation 725:
+-> Best fitness: 55
+-> The average fitness: 53.81
+-> Cost of best solution: 74
+Time: 550.847 s
+------------------------------
+------------------------------
+Generation 726:
+-> Best fitness: 55
+-> The average fitness: 54.19
+-> Cost of best solution: 74
+Time: 551.574 s
+------------------------------
+------------------------------
+Generation 727:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 552.344 s
+------------------------------
+------------------------------
+Generation 728:
+-> Best fitness: 55
+-> The average fitness: 53.07
+-> Cost of best solution: 74
+Time: 553.13 s
+------------------------------
+------------------------------
+Generation 729:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 553.904 s
+------------------------------
+------------------------------
+Generation 730:
+-> Best fitness: 55
+-> The average fitness: 53.62
+-> Cost of best solution: 74
+Time: 554.625 s
+------------------------------
+------------------------------
+Generation 731:
+-> Best fitness: 55
+-> The average fitness: 53.84
+-> Cost of best solution: 74
+Time: 555.385 s
+------------------------------
+------------------------------
+Generation 732:
+-> Best fitness: 55
+-> The average fitness: 53.94
+-> Cost of best solution: 74
+Time: 556.157 s
+------------------------------
+------------------------------
+Generation 733:
+-> Best fitness: 55
+-> The average fitness: 54.03
+-> Cost of best solution: 74
+Time: 556.906 s
+------------------------------
+------------------------------
+Generation 734:
+-> Best fitness: 55
+-> The average fitness: 54.12
+-> Cost of best solution: 74
+Time: 557.697 s
+------------------------------
+------------------------------
+Generation 735:
+-> Best fitness: 55
+-> The average fitness: 54.16
+-> Cost of best solution: 74
+Time: 558.464 s
+------------------------------
+------------------------------
+Generation 736:
+-> Best fitness: 55
+-> The average fitness: 54.01
+-> Cost of best solution: 74
+Time: 559.164 s
+------------------------------
+------------------------------
+Generation 737:
+-> Best fitness: 55
+-> The average fitness: 54.15
+-> Cost of best solution: 74
+Time: 559.882 s
+------------------------------
+------------------------------
+Generation 738:
+-> Best fitness: 55
+-> The average fitness: 53.9
+-> Cost of best solution: 74
+Time: 560.684 s
+------------------------------
+------------------------------
+Generation 739:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 561.505 s
+------------------------------
+------------------------------
+Generation 740:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 562.299 s
+------------------------------
+------------------------------
+Generation 741:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 563.026 s
+------------------------------
+------------------------------
+Generation 742:
+-> Best fitness: 55
+-> The average fitness: 52.99
+-> Cost of best solution: 74
+Time: 563.819 s
+------------------------------
+------------------------------
+Generation 743:
+-> Best fitness: 55
+-> The average fitness: 54.07
+-> Cost of best solution: 74
+Time: 564.562 s
+------------------------------
+------------------------------
+Generation 744:
+-> Best fitness: 55
+-> The average fitness: 54.05
+-> Cost of best solution: 74
+Time: 565.326 s
+------------------------------
+------------------------------
+Generation 745:
+-> Best fitness: 55
+-> The average fitness: 54.01
+-> Cost of best solution: 74
+Time: 566.032 s
+------------------------------
+------------------------------
+Generation 746:
+-> Best fitness: 55
+-> The average fitness: 53.45
+-> Cost of best solution: 74
+Time: 566.775 s
+------------------------------
+------------------------------
+Generation 747:
+-> Best fitness: 55
+-> The average fitness: 53.28
+-> Cost of best solution: 74
+Time: 567.501 s
+------------------------------
+------------------------------
+Generation 748:
+-> Best fitness: 55
+-> The average fitness: 52.97
+-> Cost of best solution: 74
+Time: 568.185 s
+------------------------------
+------------------------------
+Generation 749:
+-> Best fitness: 55
+-> The average fitness: 53.17
+-> Cost of best solution: 74
+Time: 568.966 s
+------------------------------
+------------------------------
+Generation 750:
+-> Best fitness: 55
+-> The average fitness: 53.22
+-> Cost of best solution: 74
+Time: 569.733 s
+------------------------------
+------------------------------
+Generation 751:
+-> Best fitness: 55
+-> The average fitness: 53.4
+-> Cost of best solution: 74
+Time: 570.413 s
+------------------------------
+------------------------------
+Generation 752:
+-> Best fitness: 55
+-> The average fitness: 53.69
+-> Cost of best solution: 74
+Time: 571.182 s
+------------------------------
+------------------------------
+Generation 753:
+-> Best fitness: 55
+-> The average fitness: 53.92
+-> Cost of best solution: 74
+Time: 571.963 s
+------------------------------
+------------------------------
+Generation 754:
+-> Best fitness: 55
+-> The average fitness: 54.03
+-> Cost of best solution: 74
+Time: 572.728 s
+------------------------------
+------------------------------
+Generation 755:
+-> Best fitness: 55
+-> The average fitness: 53.84
+-> Cost of best solution: 74
+Time: 573.472 s
+------------------------------
+------------------------------
+Generation 756:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 574.379 s
+------------------------------
+------------------------------
+Generation 757:
+-> Best fitness: 55
+-> The average fitness: 54.12
+-> Cost of best solution: 74
+Time: 575.125 s
+------------------------------
+------------------------------
+Generation 758:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 575.878 s
+------------------------------
+------------------------------
+Generation 759:
+-> Best fitness: 55
+-> The average fitness: 53.88
+-> Cost of best solution: 74
+Time: 576.561 s
+------------------------------
+------------------------------
+Generation 760:
+-> Best fitness: 55
+-> The average fitness: 54.12
+-> Cost of best solution: 74
+Time: 577.308 s
+------------------------------
+------------------------------
+Generation 761:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 578.038 s
+------------------------------
+------------------------------
+Generation 762:
+-> Best fitness: 55
+-> The average fitness: 53.36
+-> Cost of best solution: 74
+Time: 578.801 s
+------------------------------
+------------------------------
+Generation 763:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 579.549 s
+------------------------------
+------------------------------
+Generation 764:
+-> Best fitness: 55
+-> The average fitness: 53.4
+-> Cost of best solution: 74
+Time: 580.327 s
+------------------------------
+------------------------------
+Generation 765:
+-> Best fitness: 55
+-> The average fitness: 53.56
+-> Cost of best solution: 74
+Time: 581.05 s
+------------------------------
+------------------------------
+Generation 766:
+-> Best fitness: 55
+-> The average fitness: 53.12
+-> Cost of best solution: 74
+Time: 581.782 s
+------------------------------
+------------------------------
+Generation 767:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 582.547 s
+------------------------------
+------------------------------
+Generation 768:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 583.271 s
+------------------------------
+------------------------------
+Generation 769:
+-> Best fitness: 55
+-> The average fitness: 53.81
+-> Cost of best solution: 74
+Time: 583.976 s
+------------------------------
+------------------------------
+Generation 770:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 584.704 s
+------------------------------
+------------------------------
+Generation 771:
+-> Best fitness: 55
+-> The average fitness: 54.38
+-> Cost of best solution: 74
+Time: 585.407 s
+------------------------------
+------------------------------
+Generation 772:
+-> Best fitness: 55
+-> The average fitness: 54.34
+-> Cost of best solution: 74
+Time: 586.213 s
+------------------------------
+------------------------------
+Generation 773:
+-> Best fitness: 55
+-> The average fitness: 53.93
+-> Cost of best solution: 74
+Time: 586.895 s
+------------------------------
+------------------------------
+Generation 774:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 587.694 s
+------------------------------
+------------------------------
+Generation 775:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 588.44 s
+------------------------------
+------------------------------
+Generation 776:
+-> Best fitness: 55
+-> The average fitness: 53.69
+-> Cost of best solution: 74
+Time: 589.171 s
+------------------------------
+------------------------------
+Generation 777:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 589.961 s
+------------------------------
+------------------------------
+Generation 778:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 590.719 s
+------------------------------
+------------------------------
+Generation 779:
+-> Best fitness: 55
+-> The average fitness: 54.03
+-> Cost of best solution: 74
+Time: 591.454 s
+------------------------------
+------------------------------
+Generation 780:
+-> Best fitness: 55
+-> The average fitness: 53.98
+-> Cost of best solution: 74
+Time: 592.238 s
+------------------------------
+------------------------------
+Generation 781:
+-> Best fitness: 55
+-> The average fitness: 53.97
+-> Cost of best solution: 74
+Time: 593.112 s
+------------------------------
+------------------------------
+Generation 782:
+-> Best fitness: 55
+-> The average fitness: 53.81
+-> Cost of best solution: 74
+Time: 593.89 s
+------------------------------
+------------------------------
+Generation 783:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 594.715 s
+------------------------------
+------------------------------
+Generation 784:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 595.476 s
+------------------------------
+------------------------------
+Generation 785:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 596.308 s
+------------------------------
+------------------------------
+Generation 786:
+-> Best fitness: 55
+-> The average fitness: 53.49
+-> Cost of best solution: 74
+Time: 597.008 s
+------------------------------
+------------------------------
+Generation 787:
+-> Best fitness: 55
+-> The average fitness: 53.77
+-> Cost of best solution: 74
+Time: 597.828 s
+------------------------------
+------------------------------
+Generation 788:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 598.535 s
+------------------------------
+------------------------------
+Generation 789:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 599.271 s
+------------------------------
+------------------------------
+Generation 790:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 600.119 s
+------------------------------
+------------------------------
+Generation 791:
+-> Best fitness: 55
+-> The average fitness: 54.12
+-> Cost of best solution: 74
+Time: 600.84 s
+------------------------------
+------------------------------
+Generation 792:
+-> Best fitness: 55
+-> The average fitness: 53.95
+-> Cost of best solution: 74
+Time: 601.583 s
+------------------------------
+------------------------------
+Generation 793:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 602.392 s
+------------------------------
+------------------------------
+Generation 794:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 603.185 s
+------------------------------
+------------------------------
+Generation 795:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 603.923 s
+------------------------------
+------------------------------
+Generation 796:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 604.684 s
+------------------------------
+------------------------------
+Generation 797:
+-> Best fitness: 55
+-> The average fitness: 53.57
+-> Cost of best solution: 74
+Time: 605.426 s
+------------------------------
+------------------------------
+Generation 798:
+-> Best fitness: 55
+-> The average fitness: 53.76
+-> Cost of best solution: 74
+Time: 606.213 s
+------------------------------
+------------------------------
+Generation 799:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 606.929 s
+------------------------------
+------------------------------
+Generation 800:
+-> Best fitness: 55
+-> The average fitness: 53.56
+-> Cost of best solution: 74
+Time: 607.665 s
+------------------------------
+------------------------------
+Generation 801:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 608.405 s
+------------------------------
+------------------------------
+Generation 802:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 609.244 s
+------------------------------
+------------------------------
+Generation 803:
+-> Best fitness: 55
+-> The average fitness: 53.02
+-> Cost of best solution: 74
+Time: 610.074 s
+------------------------------
+------------------------------
+Generation 804:
+-> Best fitness: 55
+-> The average fitness: 53.4
+-> Cost of best solution: 74
+Time: 610.856 s
+------------------------------
+------------------------------
+Generation 805:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 611.665 s
+------------------------------
+------------------------------
+Generation 806:
+-> Best fitness: 55
+-> The average fitness: 53.31
+-> Cost of best solution: 74
+Time: 612.469 s
+------------------------------
+------------------------------
+Generation 807:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 613.197 s
+------------------------------
+------------------------------
+Generation 808:
+-> Best fitness: 55
+-> The average fitness: 53.87
+-> Cost of best solution: 74
+Time: 613.918 s
+------------------------------
+------------------------------
+Generation 809:
+-> Best fitness: 55
+-> The average fitness: 53.93
+-> Cost of best solution: 74
+Time: 614.674 s
+------------------------------
+------------------------------
+Generation 810:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 615.433 s
+------------------------------
+------------------------------
+Generation 811:
+-> Best fitness: 55
+-> The average fitness: 54.03
+-> Cost of best solution: 74
+Time: 616.228 s
+------------------------------
+------------------------------
+Generation 812:
+-> Best fitness: 55
+-> The average fitness: 53.93
+-> Cost of best solution: 74
+Time: 616.96 s
+------------------------------
+------------------------------
+Generation 813:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 617.742 s
+------------------------------
+------------------------------
+Generation 814:
+-> Best fitness: 55
+-> The average fitness: 54.03
+-> Cost of best solution: 74
+Time: 618.46 s
+------------------------------
+------------------------------
+Generation 815:
+-> Best fitness: 55
+-> The average fitness: 54.15
+-> Cost of best solution: 74
+Time: 619.148 s
+------------------------------
+------------------------------
+Generation 816:
+-> Best fitness: 55
+-> The average fitness: 53.93
+-> Cost of best solution: 74
+Time: 619.863 s
+------------------------------
+------------------------------
+Generation 817:
+-> Best fitness: 55
+-> The average fitness: 53.95
+-> Cost of best solution: 74
+Time: 620.566 s
+------------------------------
+------------------------------
+Generation 818:
+-> Best fitness: 55
+-> The average fitness: 54.04
+-> Cost of best solution: 74
+Time: 621.252 s
+------------------------------
+------------------------------
+Generation 819:
+-> Best fitness: 55
+-> The average fitness: 53.67
+-> Cost of best solution: 74
+Time: 621.99 s
+------------------------------
+------------------------------
+Generation 820:
+-> Best fitness: 55
+-> The average fitness: 52.75
+-> Cost of best solution: 74
+Time: 622.793 s
+------------------------------
+------------------------------
+Generation 821:
+-> Best fitness: 55
+-> The average fitness: 53.22
+-> Cost of best solution: 74
+Time: 623.493 s
+------------------------------
+------------------------------
+Generation 822:
+-> Best fitness: 55
+-> The average fitness: 53.09
+-> Cost of best solution: 74
+Time: 624.259 s
+------------------------------
+------------------------------
+Generation 823:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 625.042 s
+------------------------------
+------------------------------
+Generation 824:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 625.749 s
+------------------------------
+------------------------------
+Generation 825:
+-> Best fitness: 55
+-> The average fitness: 53.93
+-> Cost of best solution: 74
+Time: 626.524 s
+------------------------------
+------------------------------
+Generation 826:
+-> Best fitness: 55
+-> The average fitness: 52.58
+-> Cost of best solution: 74
+Time: 627.259 s
+------------------------------
+------------------------------
+Generation 827:
+-> Best fitness: 55
+-> The average fitness: 52.72
+-> Cost of best solution: 74
+Time: 628.124 s
+------------------------------
+------------------------------
+Generation 828:
+-> Best fitness: 55
+-> The average fitness: 53.35
+-> Cost of best solution: 74
+Time: 628.935 s
+------------------------------
+------------------------------
+Generation 829:
+-> Best fitness: 55
+-> The average fitness: 52.62
+-> Cost of best solution: 74
+Time: 629.683 s
+------------------------------
+------------------------------
+Generation 830:
+-> Best fitness: 55
+-> The average fitness: 52.79
+-> Cost of best solution: 74
+Time: 630.418 s
+------------------------------
+------------------------------
+Generation 831:
+-> Best fitness: 55
+-> The average fitness: 52.69
+-> Cost of best solution: 74
+Time: 631.12 s
+------------------------------
+------------------------------
+Generation 832:
+-> Best fitness: 55
+-> The average fitness: 52.12
+-> Cost of best solution: 74
+Time: 631.858 s
+------------------------------
+------------------------------
+Generation 833:
+-> Best fitness: 55
+-> The average fitness: 52.6
+-> Cost of best solution: 74
+Time: 632.553 s
+------------------------------
+------------------------------
+Generation 834:
+-> Best fitness: 55
+-> The average fitness: 52.37
+-> Cost of best solution: 74
+Time: 633.247 s
+------------------------------
+------------------------------
+Generation 835:
+-> Best fitness: 55
+-> The average fitness: 52.69
+-> Cost of best solution: 74
+Time: 633.965 s
+------------------------------
+------------------------------
+Generation 836:
+-> Best fitness: 55
+-> The average fitness: 52.08
+-> Cost of best solution: 74
+Time: 634.709 s
+------------------------------
+------------------------------
+Generation 837:
+-> Best fitness: 55
+-> The average fitness: 51.76
+-> Cost of best solution: 74
+Time: 635.416 s
+------------------------------
+------------------------------
+Generation 838:
+-> Best fitness: 55
+-> The average fitness: 52.16
+-> Cost of best solution: 74
+Time: 636.257 s
+------------------------------
+------------------------------
+Generation 839:
+-> Best fitness: 55
+-> The average fitness: 52.55
+-> Cost of best solution: 74
+Time: 636.994 s
+------------------------------
+------------------------------
+Generation 840:
+-> Best fitness: 55
+-> The average fitness: 53.21
+-> Cost of best solution: 74
+Time: 637.667 s
+------------------------------
+------------------------------
+Generation 841:
+-> Best fitness: 55
+-> The average fitness: 53.16
+-> Cost of best solution: 74
+Time: 638.357 s
+------------------------------
+------------------------------
+Generation 842:
+-> Best fitness: 55
+-> The average fitness: 53.28
+-> Cost of best solution: 74
+Time: 639.049 s
+------------------------------
+------------------------------
+Generation 843:
+-> Best fitness: 55
+-> The average fitness: 53.73
+-> Cost of best solution: 74
+Time: 639.747 s
+------------------------------
+------------------------------
+Generation 844:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 640.496 s
+------------------------------
+------------------------------
+Generation 845:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 641.242 s
+------------------------------
+------------------------------
+Generation 846:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 641.982 s
+------------------------------
+------------------------------
+Generation 847:
+-> Best fitness: 55
+-> The average fitness: 53.3
+-> Cost of best solution: 74
+Time: 642.718 s
+------------------------------
+------------------------------
+Generation 848:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 643.431 s
+------------------------------
+------------------------------
+Generation 849:
+-> Best fitness: 55
+-> The average fitness: 53.44
+-> Cost of best solution: 74
+Time: 644.175 s
+------------------------------
+------------------------------
+Generation 850:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 644.975 s
+------------------------------
+------------------------------
+Generation 851:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 645.674 s
+------------------------------
+------------------------------
+Generation 852:
+-> Best fitness: 55
+-> The average fitness: 54.15
+-> Cost of best solution: 74
+Time: 646.38 s
+------------------------------
+------------------------------
+Generation 853:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 647.066 s
+------------------------------
+------------------------------
+Generation 854:
+-> Best fitness: 55
+-> The average fitness: 53
+-> Cost of best solution: 74
+Time: 647.832 s
+------------------------------
+------------------------------
+Generation 855:
+-> Best fitness: 55
+-> The average fitness: 53.18
+-> Cost of best solution: 74
+Time: 648.664 s
+------------------------------
+------------------------------
+Generation 856:
+-> Best fitness: 55
+-> The average fitness: 53.24
+-> Cost of best solution: 74
+Time: 649.443 s
+------------------------------
+------------------------------
+Generation 857:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 650.222 s
+------------------------------
+------------------------------
+Generation 858:
+-> Best fitness: 55
+-> The average fitness: 52.79
+-> Cost of best solution: 74
+Time: 650.937 s
+------------------------------
+------------------------------
+Generation 859:
+-> Best fitness: 55
+-> The average fitness: 53.06
+-> Cost of best solution: 74
+Time: 651.788 s
+------------------------------
+------------------------------
+Generation 860:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 652.475 s
+------------------------------
+------------------------------
+Generation 861:
+-> Best fitness: 55
+-> The average fitness: 53.29
+-> Cost of best solution: 74
+Time: 653.176 s
+------------------------------
+------------------------------
+Generation 862:
+-> Best fitness: 55
+-> The average fitness: 53.12
+-> Cost of best solution: 74
+Time: 653.932 s
+------------------------------
+------------------------------
+Generation 863:
+-> Best fitness: 55
+-> The average fitness: 53.23
+-> Cost of best solution: 74
+Time: 654.628 s
+------------------------------
+------------------------------
+Generation 864:
+-> Best fitness: 55
+-> The average fitness: 53.34
+-> Cost of best solution: 74
+Time: 655.303 s
+------------------------------
+------------------------------
+Generation 865:
+-> Best fitness: 55
+-> The average fitness: 53.05
+-> Cost of best solution: 74
+Time: 656.03 s
+------------------------------
+------------------------------
+Generation 866:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 656.744 s
+------------------------------
+------------------------------
+Generation 867:
+-> Best fitness: 55
+-> The average fitness: 53.35
+-> Cost of best solution: 74
+Time: 657.526 s
+------------------------------
+------------------------------
+Generation 868:
+-> Best fitness: 55
+-> The average fitness: 53.33
+-> Cost of best solution: 74
+Time: 658.233 s
+------------------------------
+------------------------------
+Generation 869:
+-> Best fitness: 55
+-> The average fitness: 53.5
+-> Cost of best solution: 74
+Time: 658.903 s
+------------------------------
+------------------------------
+Generation 870:
+-> Best fitness: 55
+-> The average fitness: 52.82
+-> Cost of best solution: 74
+Time: 659.768 s
+------------------------------
+------------------------------
+Generation 871:
+-> Best fitness: 55
+-> The average fitness: 52.7
+-> Cost of best solution: 74
+Time: 660.499 s
+------------------------------
+------------------------------
+Generation 872:
+-> Best fitness: 55
+-> The average fitness: 52.87
+-> Cost of best solution: 74
+Time: 661.228 s
+------------------------------
+------------------------------
+Generation 873:
+-> Best fitness: 55
+-> The average fitness: 53.11
+-> Cost of best solution: 74
+Time: 661.916 s
+------------------------------
+------------------------------
+Generation 874:
+-> Best fitness: 55
+-> The average fitness: 52.98
+-> Cost of best solution: 74
+Time: 662.682 s
+------------------------------
+------------------------------
+Generation 875:
+-> Best fitness: 55
+-> The average fitness: 52.62
+-> Cost of best solution: 74
+Time: 663.382 s
+------------------------------
+------------------------------
+Generation 876:
+-> Best fitness: 55
+-> The average fitness: 52.69
+-> Cost of best solution: 74
+Time: 664.045 s
+------------------------------
+------------------------------
+Generation 877:
+-> Best fitness: 55
+-> The average fitness: 53.19
+-> Cost of best solution: 74
+Time: 664.805 s
+------------------------------
+------------------------------
+Generation 878:
+-> Best fitness: 55
+-> The average fitness: 53.39
+-> Cost of best solution: 74
+Time: 665.494 s
+------------------------------
+------------------------------
+Generation 879:
+-> Best fitness: 55
+-> The average fitness: 53.54
+-> Cost of best solution: 74
+Time: 666.216 s
+------------------------------
+------------------------------
+Generation 880:
+-> Best fitness: 55
+-> The average fitness: 53.02
+-> Cost of best solution: 74
+Time: 666.943 s
+------------------------------
+------------------------------
+Generation 881:
+-> Best fitness: 55
+-> The average fitness: 52.85
+-> Cost of best solution: 74
+Time: 667.641 s
+------------------------------
+------------------------------
+Generation 882:
+-> Best fitness: 55
+-> The average fitness: 53.15
+-> Cost of best solution: 74
+Time: 668.339 s
+------------------------------
+------------------------------
+Generation 883:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 669.041 s
+------------------------------
+------------------------------
+Generation 884:
+-> Best fitness: 55
+-> The average fitness: 53.43
+-> Cost of best solution: 74
+Time: 669.776 s
+------------------------------
+------------------------------
+Generation 885:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 670.481 s
+------------------------------
+------------------------------
+Generation 886:
+-> Best fitness: 55
+-> The average fitness: 53.35
+-> Cost of best solution: 74
+Time: 671.206 s
+------------------------------
+------------------------------
+Generation 887:
+-> Best fitness: 55
+-> The average fitness: 52.6
+-> Cost of best solution: 74
+Time: 671.94 s
+------------------------------
+------------------------------
+Generation 888:
+-> Best fitness: 55
+-> The average fitness: 52.44
+-> Cost of best solution: 74
+Time: 672.629 s
+------------------------------
+------------------------------
+Generation 889:
+-> Best fitness: 55
+-> The average fitness: 53
+-> Cost of best solution: 74
+Time: 673.338 s
+------------------------------
+------------------------------
+Generation 890:
+-> Best fitness: 55
+-> The average fitness: 52.56
+-> Cost of best solution: 74
+Time: 674.087 s
+------------------------------
+------------------------------
+Generation 891:
+-> Best fitness: 55
+-> The average fitness: 53.31
+-> Cost of best solution: 74
+Time: 674.772 s
+------------------------------
+------------------------------
+Generation 892:
+-> Best fitness: 55
+-> The average fitness: 53.42
+-> Cost of best solution: 74
+Time: 675.496 s
+------------------------------
+------------------------------
+Generation 893:
+-> Best fitness: 55
+-> The average fitness: 53.8
+-> Cost of best solution: 74
+Time: 676.307 s
+------------------------------
+------------------------------
+Generation 894:
+-> Best fitness: 55
+-> The average fitness: 53.66
+-> Cost of best solution: 74
+Time: 677.141 s
+------------------------------
+------------------------------
+Generation 895:
+-> Best fitness: 55
+-> The average fitness: 52.92
+-> Cost of best solution: 74
+Time: 677.951 s
+------------------------------
+------------------------------
+Generation 896:
+-> Best fitness: 55
+-> The average fitness: 53.24
+-> Cost of best solution: 74
+Time: 678.703 s
+------------------------------
+------------------------------
+Generation 897:
+-> Best fitness: 55
+-> The average fitness: 52.95
+-> Cost of best solution: 74
+Time: 679.411 s
+------------------------------
+------------------------------
+Generation 898:
+-> Best fitness: 55
+-> The average fitness: 52.51
+-> Cost of best solution: 74
+Time: 680.114 s
+------------------------------
+------------------------------
+Generation 899:
+-> Best fitness: 55
+-> The average fitness: 52.79
+-> Cost of best solution: 74
+Time: 680.815 s
+------------------------------
+------------------------------
+Generation 900:
+-> Best fitness: 55
+-> The average fitness: 52.75
+-> Cost of best solution: 74
+Time: 681.538 s
+------------------------------
+------------------------------
+Generation 901:
+-> Best fitness: 55
+-> The average fitness: 53.4
+-> Cost of best solution: 74
+Time: 682.282 s
+------------------------------
+------------------------------
+Generation 902:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 682.994 s
+------------------------------
+------------------------------
+Generation 903:
+-> Best fitness: 55
+-> The average fitness: 53.62
+-> Cost of best solution: 74
+Time: 683.72 s
+------------------------------
+------------------------------
+Generation 904:
+-> Best fitness: 55
+-> The average fitness: 53.74
+-> Cost of best solution: 74
+Time: 684.398 s
+------------------------------
+------------------------------
+Generation 905:
+-> Best fitness: 55
+-> The average fitness: 53.69
+-> Cost of best solution: 74
+Time: 685.171 s
+------------------------------
+------------------------------
+Generation 906:
+-> Best fitness: 55
+-> The average fitness: 53.89
+-> Cost of best solution: 74
+Time: 685.975 s
+------------------------------
+------------------------------
+Generation 907:
+-> Best fitness: 55
+-> The average fitness: 53.93
+-> Cost of best solution: 74
+Time: 686.773 s
+------------------------------
+------------------------------
+Generation 908:
+-> Best fitness: 55
+-> The average fitness: 53.69
+-> Cost of best solution: 74
+Time: 687.546 s
+------------------------------
+------------------------------
+Generation 909:
+-> Best fitness: 55
+-> The average fitness: 53.45
+-> Cost of best solution: 74
+Time: 688.298 s
+------------------------------
+------------------------------
+Generation 910:
+-> Best fitness: 55
+-> The average fitness: 53.42
+-> Cost of best solution: 74
+Time: 688.974 s
+------------------------------
+------------------------------
+Generation 911:
+-> Best fitness: 55
+-> The average fitness: 53.63
+-> Cost of best solution: 74
+Time: 689.685 s
+------------------------------
+------------------------------
+Generation 912:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 690.361 s
+------------------------------
+------------------------------
+Generation 913:
+-> Best fitness: 55
+-> The average fitness: 53.5
+-> Cost of best solution: 74
+Time: 691.091 s
+------------------------------
+------------------------------
+Generation 914:
+-> Best fitness: 55
+-> The average fitness: 53.64
+-> Cost of best solution: 74
+Time: 691.829 s
+------------------------------
+------------------------------
+Generation 915:
+-> Best fitness: 55
+-> The average fitness: 53.18
+-> Cost of best solution: 74
+Time: 692.508 s
+------------------------------
+------------------------------
+Generation 916:
+-> Best fitness: 55
+-> The average fitness: 53.17
+-> Cost of best solution: 74
+Time: 693.209 s
+------------------------------
+------------------------------
+Generation 917:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 693.884 s
+------------------------------
+------------------------------
+Generation 918:
+-> Best fitness: 55
+-> The average fitness: 53.85
+-> Cost of best solution: 74
+Time: 694.67 s
+------------------------------
+------------------------------
+Generation 919:
+-> Best fitness: 55
+-> The average fitness: 54.14
+-> Cost of best solution: 74
+Time: 695.374 s
+------------------------------
+------------------------------
+Generation 920:
+-> Best fitness: 55
+-> The average fitness: 53.88
+-> Cost of best solution: 74
+Time: 696.097 s
+------------------------------
+------------------------------
+Generation 921:
+-> Best fitness: 55
+-> The average fitness: 53.55
+-> Cost of best solution: 74
+Time: 696.834 s
+------------------------------
+------------------------------
+Generation 922:
+-> Best fitness: 55
+-> The average fitness: 53.2
+-> Cost of best solution: 74
+Time: 697.55 s
+------------------------------
+------------------------------
+Generation 923:
+-> Best fitness: 55
+-> The average fitness: 53.55
+-> Cost of best solution: 74
+Time: 698.248 s
+------------------------------
+------------------------------
+Generation 924:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 698.95 s
+------------------------------
+------------------------------
+Generation 925:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 699.66 s
+------------------------------
+------------------------------
+Generation 926:
+-> Best fitness: 55
+-> The average fitness: 53.44
+-> Cost of best solution: 74
+Time: 700.377 s
+------------------------------
+------------------------------
+Generation 927:
+-> Best fitness: 55
+-> The average fitness: 53.22
+-> Cost of best solution: 74
+Time: 701.135 s
+------------------------------
+------------------------------
+Generation 928:
+-> Best fitness: 55
+-> The average fitness: 52.65
+-> Cost of best solution: 74
+Time: 701.871 s
+------------------------------
+------------------------------
+Generation 929:
+-> Best fitness: 55
+-> The average fitness: 52.51
+-> Cost of best solution: 74
+Time: 702.615 s
+------------------------------
+------------------------------
+Generation 930:
+-> Best fitness: 55
+-> The average fitness: 52.12
+-> Cost of best solution: 74
+Time: 703.305 s
+------------------------------
+------------------------------
+Generation 931:
+-> Best fitness: 55
+-> The average fitness: 52.58
+-> Cost of best solution: 74
+Time: 704.119 s
+------------------------------
+------------------------------
+Generation 932:
+-> Best fitness: 55
+-> The average fitness: 53.05
+-> Cost of best solution: 74
+Time: 704.815 s
+------------------------------
+------------------------------
+Generation 933:
+-> Best fitness: 55
+-> The average fitness: 53.28
+-> Cost of best solution: 74
+Time: 705.513 s
+------------------------------
+------------------------------
+Generation 934:
+-> Best fitness: 55
+-> The average fitness: 53.86
+-> Cost of best solution: 74
+Time: 706.297 s
+------------------------------
+------------------------------
+Generation 935:
+-> Best fitness: 55
+-> The average fitness: 53.53
+-> Cost of best solution: 74
+Time: 707.107 s
+------------------------------
+------------------------------
+Generation 936:
+-> Best fitness: 55
+-> The average fitness: 52.74
+-> Cost of best solution: 74
+Time: 707.851 s
+------------------------------
+------------------------------
+Generation 937:
+-> Best fitness: 55
+-> The average fitness: 53.42
+-> Cost of best solution: 74
+Time: 708.605 s
+------------------------------
+------------------------------
+Generation 938:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 709.362 s
+------------------------------
+------------------------------
+Generation 939:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 710.045 s
+------------------------------
+------------------------------
+Generation 940:
+-> Best fitness: 55
+-> The average fitness: 54.12
+-> Cost of best solution: 74
+Time: 710.765 s
+------------------------------
+------------------------------
+Generation 941:
+-> Best fitness: 55
+-> The average fitness: 53.94
+-> Cost of best solution: 74
+Time: 711.476 s
+------------------------------
+------------------------------
+Generation 942:
+-> Best fitness: 55
+-> The average fitness: 53.78
+-> Cost of best solution: 74
+Time: 712.205 s
+------------------------------
+------------------------------
+Generation 943:
+-> Best fitness: 55
+-> The average fitness: 53.59
+-> Cost of best solution: 74
+Time: 712.925 s
+------------------------------
+------------------------------
+Generation 944:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 713.634 s
+------------------------------
+------------------------------
+Generation 945:
+-> Best fitness: 55
+-> The average fitness: 53.87
+-> Cost of best solution: 74
+Time: 714.335 s
+------------------------------
+------------------------------
+Generation 946:
+-> Best fitness: 55
+-> The average fitness: 53.79
+-> Cost of best solution: 74
+Time: 715.036 s
+------------------------------
+------------------------------
+Generation 947:
+-> Best fitness: 55
+-> The average fitness: 53.99
+-> Cost of best solution: 74
+Time: 715.902 s
+------------------------------
+------------------------------
+Generation 948:
+-> Best fitness: 55
+-> The average fitness: 53.99
+-> Cost of best solution: 74
+Time: 716.651 s
+------------------------------
+------------------------------
+Generation 949:
+-> Best fitness: 55
+-> The average fitness: 53.52
+-> Cost of best solution: 74
+Time: 717.438 s
+------------------------------
+------------------------------
+Generation 950:
+-> Best fitness: 55
+-> The average fitness: 53.74
+-> Cost of best solution: 74
+Time: 718.151 s
+------------------------------
+------------------------------
+Generation 951:
+-> Best fitness: 55
+-> The average fitness: 53.92
+-> Cost of best solution: 74
+Time: 718.831 s
+------------------------------
+------------------------------
+Generation 952:
+-> Best fitness: 55
+-> The average fitness: 53.62
+-> Cost of best solution: 74
+Time: 719.677 s
+------------------------------
+------------------------------
+Generation 953:
+-> Best fitness: 55
+-> The average fitness: 53.65
+-> Cost of best solution: 74
+Time: 720.51 s
+------------------------------
+------------------------------
+Generation 954:
+-> Best fitness: 55
+-> The average fitness: 53.58
+-> Cost of best solution: 74
+Time: 721.212 s
+------------------------------
+------------------------------
+Generation 955:
+-> Best fitness: 55
+-> The average fitness: 53.92
+-> Cost of best solution: 74
+Time: 721.915 s
+------------------------------
+------------------------------
+Generation 956:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 722.7 s
+------------------------------
+------------------------------
+Generation 957:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 723.399 s
+------------------------------
+------------------------------
+Generation 958:
+-> Best fitness: 55
+-> The average fitness: 53.84
+-> Cost of best solution: 74
+Time: 724.08 s
+------------------------------
+------------------------------
+Generation 959:
+-> Best fitness: 55
+-> The average fitness: 53.84
+-> Cost of best solution: 74
+Time: 724.763 s
+------------------------------
+------------------------------
+Generation 960:
+-> Best fitness: 55
+-> The average fitness: 53.78
+-> Cost of best solution: 74
+Time: 725.562 s
+------------------------------
+------------------------------
+Generation 961:
+-> Best fitness: 55
+-> The average fitness: 54.36
+-> Cost of best solution: 74
+Time: 726.329 s
+------------------------------
+------------------------------
+Generation 962:
+-> Best fitness: 55
+-> The average fitness: 54.51
+-> Cost of best solution: 74
+Time: 727.088 s
+------------------------------
+------------------------------
+Generation 963:
+-> Best fitness: 55
+-> The average fitness: 54.31
+-> Cost of best solution: 74
+Time: 727.805 s
+------------------------------
+------------------------------
+Generation 964:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 728.521 s
+------------------------------
+------------------------------
+Generation 965:
+-> Best fitness: 55
+-> The average fitness: 53.83
+-> Cost of best solution: 74
+Time: 729.266 s
+------------------------------
+------------------------------
+Generation 966:
+-> Best fitness: 55
+-> The average fitness: 53.82
+-> Cost of best solution: 74
+Time: 730.014 s
+------------------------------
+------------------------------
+Generation 967:
+-> Best fitness: 55
+-> The average fitness: 53.76
+-> Cost of best solution: 74
+Time: 730.709 s
+------------------------------
+------------------------------
+Generation 968:
+-> Best fitness: 55
+-> The average fitness: 52.81
+-> Cost of best solution: 74
+Time: 731.436 s
+------------------------------
+------------------------------
+Generation 969:
+-> Best fitness: 55
+-> The average fitness: 53.13
+-> Cost of best solution: 74
+Time: 732.132 s
+------------------------------
+------------------------------
+Generation 970:
+-> Best fitness: 55
+-> The average fitness: 52.93
+-> Cost of best solution: 74
+Time: 732.985 s
+------------------------------
+------------------------------
+Generation 971:
+-> Best fitness: 55
+-> The average fitness: 52.8
+-> Cost of best solution: 74
+Time: 733.738 s
+------------------------------
+------------------------------
+Generation 972:
+-> Best fitness: 55
+-> The average fitness: 52.91
+-> Cost of best solution: 74
+Time: 734.441 s
+------------------------------
+------------------------------
+Generation 973:
+-> Best fitness: 55
+-> The average fitness: 52.97
+-> Cost of best solution: 74
+Time: 735.212 s
+------------------------------
+------------------------------
+Generation 974:
+-> Best fitness: 55
+-> The average fitness: 52.97
+-> Cost of best solution: 74
+Time: 735.891 s
+------------------------------
+------------------------------
+Generation 975:
+-> Best fitness: 55
+-> The average fitness: 53.21
+-> Cost of best solution: 74
+Time: 736.646 s
+------------------------------
+------------------------------
+Generation 976:
+-> Best fitness: 55
+-> The average fitness: 53.47
+-> Cost of best solution: 74
+Time: 737.375 s
+------------------------------
+------------------------------
+Generation 977:
+-> Best fitness: 55
+-> The average fitness: 53.46
+-> Cost of best solution: 74
+Time: 738.135 s
+------------------------------
+------------------------------
+Generation 978:
+-> Best fitness: 55
+-> The average fitness: 53.62
+-> Cost of best solution: 74
+Time: 738.978 s
+------------------------------
+------------------------------
+Generation 979:
+-> Best fitness: 55
+-> The average fitness: 54.08
+-> Cost of best solution: 74
+Time: 739.716 s
+------------------------------
+------------------------------
+Generation 980:
+-> Best fitness: 55
+-> The average fitness: 53.95
+-> Cost of best solution: 74
+Time: 740.511 s
+------------------------------
+------------------------------
+Generation 981:
+-> Best fitness: 55
+-> The average fitness: 54.01
+-> Cost of best solution: 74
+Time: 741.246 s
+------------------------------
+------------------------------
+Generation 982:
+-> Best fitness: 55
+-> The average fitness: 53.98
+-> Cost of best solution: 74
+Time: 741.964 s
+------------------------------
+------------------------------
+Generation 983:
+-> Best fitness: 55
+-> The average fitness: 54.35
+-> Cost of best solution: 74
+Time: 742.763 s
+------------------------------
+------------------------------
+Generation 984:
+-> Best fitness: 55
+-> The average fitness: 53.68
+-> Cost of best solution: 74
+Time: 743.508 s
+------------------------------
+------------------------------
+Generation 985:
+-> Best fitness: 55
+-> The average fitness: 53.07
+-> Cost of best solution: 74
+Time: 744.242 s
+------------------------------
+------------------------------
+Generation 986:
+-> Best fitness: 55
+-> The average fitness: 53.09
+-> Cost of best solution: 74
+Time: 744.985 s
+------------------------------
+------------------------------
+Generation 987:
+-> Best fitness: 55
+-> The average fitness: 53.16
+-> Cost of best solution: 74
+Time: 745.78 s
+------------------------------
+------------------------------
+Generation 988:
+-> Best fitness: 55
+-> The average fitness: 52.82
+-> Cost of best solution: 74
+Time: 746.493 s
+------------------------------
+------------------------------
+Generation 989:
+-> Best fitness: 55
+-> The average fitness: 53.01
+-> Cost of best solution: 74
+Time: 747.316 s
+------------------------------
+------------------------------
+Generation 990:
+-> Best fitness: 55
+-> The average fitness: 52.94
+-> Cost of best solution: 74
+Time: 748.027 s
+------------------------------
+------------------------------
+Generation 991:
+-> Best fitness: 55
+-> The average fitness: 53.63
+-> Cost of best solution: 74
+Time: 748.802 s
+------------------------------
+------------------------------
+Generation 992:
+-> Best fitness: 55
+-> The average fitness: 53.75
+-> Cost of best solution: 74
+Time: 749.518 s
+------------------------------
+------------------------------
+Generation 993:
+-> Best fitness: 55
+-> The average fitness: 53.72
+-> Cost of best solution: 74
+Time: 750.199 s
+------------------------------
+------------------------------
+Generation 994:
+-> Best fitness: 55
+-> The average fitness: 53.82
+-> Cost of best solution: 74
+Time: 750.903 s
+------------------------------
+------------------------------
+Generation 995:
+-> Best fitness: 55
+-> The average fitness: 53.6
+-> Cost of best solution: 74
+Time: 751.606 s
+------------------------------
+------------------------------
+Generation 996:
+-> Best fitness: 55
+-> The average fitness: 53.79
+-> Cost of best solution: 74
+Time: 752.34 s
+------------------------------
+------------------------------
+Generation 997:
+-> Best fitness: 55
+-> The average fitness: 53.7
+-> Cost of best solution: 74
+Time: 753.093 s
+------------------------------
+------------------------------
+Generation 998:
+-> Best fitness: 55
+-> The average fitness: 53.41
+-> Cost of best solution: 74
+Time: 753.867 s
+------------------------------
+------------------------------
+Generation 999:
+-> Best fitness: 55
+-> The average fitness: 53.86
+-> Cost of best solution: 74
+Time: 754.623 s
+------------------------------
+
+------- RESULTS OF EVA -------
+Fitness of the best individual found: 55
+The best partition found: 2 4 2 0 4 1 4 1 3 2 2 2 3 0 2 4 0 0 0 3 4 0 2 3 4 0 3 3 1 1 2 4 1 1 4 3 3 1 3 1 1 4 1 0 2 0 3 2 0 4 
+Cost of the solution: 74
+------------------------------
+
+END OF EVA
+------------------
+Time taken by EVA: 754.683 s
+

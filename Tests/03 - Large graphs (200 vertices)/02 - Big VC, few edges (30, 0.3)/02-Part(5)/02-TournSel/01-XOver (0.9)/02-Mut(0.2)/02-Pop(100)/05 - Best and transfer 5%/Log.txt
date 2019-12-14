@@ -1,0 +1,95 @@
+Type of selection (r - Roulette Wheel, t - Tournament): t
+	Probability of the best individual to be selected (0.0 - 1.0): 0.9
+Probability of XOver (0.0 - 1.0): 0.9
+Probability of mutation (0.0 - 1.0): 0.2
+Type of mutation (r - random, u - uniform, s - shift, b - big bang): r
+Size of a population: 100
+Run until optimum [y\n]?: n
+Number of generations (-1 for infinity): 1000
+Strategy (k - kill parents, b - only best)?: b
+Transfer the best individuals to the next generation [y\n]?: y
+	-> Percentage of the best transfered individuals (0 - 100): 5
+------------------------------
+Generation 0:
+-> Best fitness: 370
+-> The average fitness: 329.13
+-> Cost of best solution: 1309
+Time: 6.881 s
+------------------------------
+------------------------------
+Generation 1:
+-> Best fitness: 370
+-> The average fitness: 340.39
+-> Cost of best solution: 1309
+Time: 12.553 s
+------------------------------
+------------------------------
+Generation 2:
+-> Best fitness: 376
+-> The average fitness: 348.57
+-> Cost of best solution: 1303
+Time: 18.665 s
+------------------------------
+------------------------------
+Generation 3:
+-> Best fitness: 376
+-> The average fitness: 354.89
+-> Cost of best solution: 1303
+Time: 24.884 s
+------------------------------
+------------------------------
+Generation 4:
+-> Best fitness: 377
+-> The average fitness: 362.39
+-> Cost of best solution: 1302
+Time: 31.177 s
+------------------------------
+------------------------------
+Generation 5:
+-> Best fitness: 384
+-> The average fitness: 366.16
+-> Cost of best solution: 1295
+Time: 37.615 s
+------------------------------
+------------------------------
+Generation 6:
+-> Best fitness: 384
+-> The average fitness: 370.79
+-> Cost of best solution: 1295
+Time: 44.536 s
+------------------------------
+------------------------------
+Generation 7:
+-> Best fitness: 384
+-> The average fitness: 373.63
+-> Cost of best solution: 1295
+Time: 51.528 s
+------------------------------
+------------------------------
+Generation 8:
+-> Best fitness: 387
+-> The average fitness: 377.29
+-> Cost of best solution: 1292
+Time: 58.642 s
+------------------------------
+------------------------------
+Generation 9:
+-> Best fitness: 391
+-> The average fitness: 380.12
+-> Cost of best solution: 1288
+Time: 67.077 s
+------------------------------
+------------------------------
+Generation 10:
+-> Best fitness: 391
+-> The average fitness: 382.72
+-> Cost of best solution: 1288
+Time: 74.209 s
+------------------------------
+------------------------------
+Generation 11:
+-> Best fitness: 397
+-> The average fitness: 385.46
+-> Cost of best solution: 1282
+Time: 80.447 s
+------------------------------
