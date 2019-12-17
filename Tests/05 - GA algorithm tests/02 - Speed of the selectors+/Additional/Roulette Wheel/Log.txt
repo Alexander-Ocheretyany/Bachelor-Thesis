@@ -1,0 +1,51 @@
+Type of selection (r - Roulette Wheel, t - Tournament): r
+Probability of XOver (0.0 - 1.0): 0.8
+Probability of mutation (0.0 - 1.0): 0.2
+Type of mutation (r - random, u - uniform, s - shift, b - big bang): r
+Size of a population: 200
+Run until optimum [y\n]?: n
+Number of generations (-1 for infinity): 18446744073709551615
+Strategy (k - kill parents, b - only best)?: b
+Transfer the best individuals to the next generation [y\n]?: n
+------------------------------
+Generation 0:
+-> Best fitness: 1070
+-> The average fitness: 994.63
+-> Cost of best solution: 3923
+Time: 169.443 s
+------------------------------
+------------------------------
+Generation 1:
+-> Best fitness: 1070
+-> The average fitness: 998.67
+-> Cost of best solution: 3923
+Time: 203.841 s
+------------------------------
+------------------------------
+Generation 2:
+-> Best fitness: 1070
+-> The average fitness: 1004.34
+-> Cost of best solution: 3923
+Time: 239.008 s
+------------------------------
+------------------------------
+Generation 3:
+-> Best fitness: 1070
+-> The average fitness: 1006.17
+-> Cost of best solution: 3923
+Time: 274.564 s
+------------------------------
+------------------------------
+Generation 4:
+-> Best fitness: 1070
+-> The average fitness: 1008.74
+-> Cost of best solution: 3923
+Time: 310.224 s
+------------------------------
+------------------------------
+Generation 5:
+-> Best fitness: 1070
+-> The average fitness: 1011.13
+-> Cost of best solution: 3923
+Time: 345.415 s
+------------------------------
