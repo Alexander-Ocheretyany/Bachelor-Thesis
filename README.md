@@ -1,4 +1,4 @@
-# Balanced Graph Partitioning of Graphs with Small Vertex Cover
+# Balanced Partitioning of Graphs with Small Vertex Cover
 
 The Balanced Partitioning problem is an important problem from the NP-class of problems,
 that finds its practical applications in parallel computing, data mining, VLSI design, and others.
